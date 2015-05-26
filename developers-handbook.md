@@ -363,6 +363,7 @@ to not educate them of the implications.
 
 ##### Further Reading
 
+- [Let's Encrypt](https://letsencrypt.org/)
 - [Deprecating Non-Secure HTTP](https://blog.mozilla.org/security/2015/04/30/deprecating-non-secure-http/)
 
 #### Canonical URL's
