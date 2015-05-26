@@ -360,6 +360,10 @@ to not educate them of the implications.
 - Test browser support using [Browserstack](https://www.browserstack.com), we
   have a paid account for this very reason.
 
+##### Further Reading
+
+- [Deprecating Non-Secure HTTP](https://blog.mozilla.org/security/2015/04/30/deprecating-non-secure-http/)
+
 #### Canonical URL's
 
 For canonical urls we use www without trailing slashes.
