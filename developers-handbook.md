@@ -182,6 +182,7 @@ _Bonus points for [keeping a changelog](http://keepachangelog.com/)._
 - [Sentry](https://app.getsentry.com/) for error reporting.
 - [Cloudinary](http://cloudinary.com/) for image manipulation and hosting.
 - [New Relic](http://newrelic.com/) for server monitoring.
+- [Browserstack](https://www.browserstack.com) for browser testing.
 
 ### Standards
 
