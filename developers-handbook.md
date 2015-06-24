@@ -432,11 +432,11 @@ We have a paid [Laracasts](https://laracasts.com/) account, use it :)
 
 #### Podcasts
 
-[Awesome Podcasts](http://github.com/wayneashleyberry/awesome-podcasts)
+- [Awesome Podcasts](http://github.com/wayneashleyberry/awesome-podcasts)
 
 #### Newsletters
 
-[Awesome Newsletters](https://github.com/wayneashleyberry/awesome-newsletters)
+- [Awesome Newsletters](https://github.com/wayneashleyberry/awesome-newsletters)
 
 #### Websites
 
