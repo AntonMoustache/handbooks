@@ -6,7 +6,7 @@
 * [Philosophy](#philosophy)
 * [Process and Communication](#process-and-communication)
   * [GitHub](#github)
-* [Day One](#day-one)
+* [Monolith First](#monolith-first)
 * [Prototyping](#prototyping)
   * [Further Reading](#further-reading)
 * [Documentation](#documentation)
@@ -106,20 +106,24 @@ and attempts at implementation. No code shows nothing.
 [labels](https://github.com/we-are-next/github-labels) and
 [issues](https://github.com/we-are-next/github-issues) setup.**
 
-### Day One
+### Monolith First
 
-Dedicate the first day of a *new project* to getting the environment setup.
+Modules, packages, libraries and micro services are all great things but they
+are not the place to start new projects. If you get your module boundaries
+wrong from the beginning, which is very likely because you're in the stage when
+you least understand the project, then maintaining and building upon those
+foundations is going to be a nightmare.
 
-- Create a GitHub repo
-- Provision a staging server
-- Setup automatic deployment
-- Setup continuous integration
-- Add tests for code style and linting errors
-- Integrate error tracking
-- Integrate Google Analytics
-- Configure Slack integrations
-- Document these things in the readme
-- Send the url to your team
+We always take the approach of building monoliths first. Once we understand
+module boundaries and how the application is structured we can then start
+destructuring and extracting funcionality into little pieces if needed.
+
+#### Further Reading
+
+- https://www.youtube.com/watch?v=KJVTM7mE1Cc&t=1316
+- http://martinfowler.com/bliki/MonolithFirst.html
+- http://martinfowler.com/bliki/MicroservicePremium.html
+- https://changelog.com/145/
 
 ### Prototyping
 
