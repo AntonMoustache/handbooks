@@ -1,10 +1,10 @@
-<h1 align="center">
+<div align="center">
 	<br>
 	<img width="360" src="https://raw.githubusercontent.com/we-are-next/readme/master/media/logo-dark.png?token=AAsY3rxhWKX6FihG-VfO1HCLBAGqeFQ-ks5Vm731wA%3D%3D" alt="Next">
 	<br>
 	<br>
 	<br>
-</h1>
+</div>
 
 ## Contact Details
 
