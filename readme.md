@@ -1,6 +1,6 @@
 # Next Readme
 
-### Contact Details
+## Contact Details
 
 ##### Email Address
 
@@ -14,12 +14,12 @@ hello@wearenext.co.za
 
 Unit 1, Kings Cross Corner 9 Queens Park Avenue Salt River, 7925 South Africa
 
-### Handbooks
+## Handbooks
 
 - [Developer's Handbook](developers-handbook.md)
 - [Remote Handbook](remote-handbook.md)
 
-### Links
+## Links
 
 ##### Website
 
