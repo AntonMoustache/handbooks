@@ -1,5 +1,28 @@
 # Remote Handbook
 
+## Table of Contents
+
+* [Working Flexibly, Working Remotely, Working Smartly](#working-flexibly-working-remotely-working-smartly)
+  * [First, Let’s Talk About  Flexible Working Hours](#first-lets-talk-about-flexible-working-hours)
+    * [Over-Communicate](#over-communicate)
+    * [Productivity is king](#productivity-is-king)
+  * [Working Remotely. An Introduction](#working-remotely-an-introduction)
+    * [WHAT IT IS AND ISN’T](#what-it-is-and-isnt)
+    * [HOW YOUR JOB ROLE AFFECTS REMOTE WORKING:](#how-your-job-role-affects-remote-working)
+    * [WHO CAN WORK REMOTELY:](#who-can-work-remotely)
+  * [Working Remotely: Expectations](#working-remotely-expectations)
+    * [Over-communicate](#over-communicate)
+    * [Productivity](#productivity)
+    * [Responsibility](#responsibility)
+  * [Things you’ll need to work remotely](#things-youll-need-to-work-remotely)
+    * [Upfront Approval](#upfront-approval)
+    * [Known Availability](#known-availability)
+    * [A Proper Place To Work](#a-proper-place-to-work)
+    * [A Computer With Everything You Need](#a-computer-with-everything-you-need)
+    * [A Decent Internet Connection](#a-decent-internet-connection)
+    * [You & Your Work Must Be Available To Your Team](#you-your-work-must-be-available-to-your-team)
+    * [Have Boundaries](#have-boundaries)
+
 ## Working Flexibly, Working Remotely, Working Smartly
 
 We’ve put together this guide to make sure everyone is aware of and understands
