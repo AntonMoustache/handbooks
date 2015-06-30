@@ -3,18 +3,18 @@
 ## Table of Contents
 
 * [Working Flexibly, Working Remotely, Working Smartly](#working-flexibly-working-remotely-working-smartly)
-  * [First, Let’s Talk About  Flexible Working Hours](#first-lets-talk-about-flexible-working-hours)
-    * [Over-Communicate](#over-communicate)
+* [First, Let’s Talk About  Flexible Working Hours](#first-lets-talk-about-flexible-working-hours)
+    * [Over-communicate](#over-communicate)
     * [Productivity is king](#productivity-is-king)
-  * [Working Remotely. An Introduction](#working-remotely-an-introduction)
-    * [WHAT IT IS AND ISN’T](#what-it-is-and-isnt)
-    * [HOW YOUR JOB ROLE AFFECTS REMOTE WORKING:](#how-your-job-role-affects-remote-working)
-    * [WHO CAN WORK REMOTELY:](#who-can-work-remotely)
-  * [Working Remotely: Expectations](#working-remotely-expectations)
+* [Working Remotely. An Introduction](#working-remotely-an-introduction)
+    * [What it is and isn't](#what-it-is-and-isnt)
+    * [How your job role affects remote working](#how-your-job-role-affects-remote-working)
+    * [Who can work remotely](#who-can-work-remotely)
+* [Working Remotely: Expectations](#working-remotely-expectations)
     * [Over-communicate](#over-communicate)
     * [Productivity](#productivity)
     * [Responsibility](#responsibility)
-  * [Things you’ll need to work remotely](#things-youll-need-to-work-remotely)
+* [Things you’ll need to work remotely](#things-youll-need-to-work-remotely)
     * [Upfront Approval](#upfront-approval)
     * [Known Availability](#known-availability)
     * [A Proper Place To Work](#a-proper-place-to-work)
@@ -22,6 +22,7 @@
     * [A Decent Internet Connection](#a-decent-internet-connection)
     * [You & Your Work Must Be Available To Your Team](#you-your-work-must-be-available-to-your-team)
     * [Have Boundaries](#have-boundaries)
+    * [Pants](#pants)
 
 ## Working Flexibly, Working Remotely, Working Smartly
 
@@ -32,7 +33,7 @@ shit done, wherever you choose to do it.
 
 We’re always open to feedback and to evolve how we work to improve productivity.
 
-### First, Let’s Talk About  Flexible Working Hours
+## First, Let’s Talk About  Flexible Working Hours
 
 Remember, Flexi-time is not Remote working.
 
@@ -40,7 +41,7 @@ We know life can get hectic and sometimes you need to go to the bank or leave
 early to beat the traffic. We have flexible working hours to let you manage
 your day so that your work time can be focussed and productive.
 
-#### Over-Communicate
+#### Over-communicate
 
 Take responsibility to make sure the team knows if you’re going to come in late
 (after 9:30) or leave early (before 4:00pm). You need to notify fellow
@@ -53,35 +54,35 @@ Flexible working hours are available to everyone so long as you're getting your
 work done.  Remember that it’s designed to maximise productivity and minimise
 distractions and wasted time.
 
-### Working Remotely. An Introduction
+## Working Remotely. An Introduction
 
 We understand that sometimes the best place to get work done is not the office,
 especially when you need uninterrupted concentration time. We also trust you to
 make productive use of your time when working out of the office. We do however
 have some expectations for those of you who choose to work remotely.
 
-#### WHAT IT IS AND ISN’T
+#### What it is and isn't
 
 **Working remotely is different to working flexitime.** Remote working means
 that for the agreed period your office desk is off site. You are however
 expected to be at your desk (wherever or whatever that is) working, accessible
 and delivering as you would, were you in the office.
 
-#### HOW YOUR JOB ROLE AFFECTS REMOTE WORKING:
+#### How your job role affects remote working
 
 **There's no one size fits all.** Every one of us fulfills a different role in
 the team and will require different levels of team face to face or client
 interaction. This means that remote working will be practically implemented
 differently with each team member.
 
-#### WHO CAN WORK REMOTELY:
+#### Who can work remotely
 
 **Short answer – Anyone.** Remote working is available to everyone on the
 staff.  However, how often you can work remotely depends on your job role, the
 projects you're working on and the phase of the project the team is currently
 in.
 
-### Working Remotely: Expectations
+## Working Remotely: Expectations
 
 #### Over-communicate
 
@@ -104,7 +105,7 @@ in.
   you’re at the office - if you aren’t then you have to get approval beforehand
   and be available for any video catch ups if need be.
 
-### Things you’ll need to work remotely
+## Things you’ll need to work remotely
 
 #### Upfront Approval
 
