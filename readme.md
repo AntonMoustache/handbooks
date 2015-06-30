@@ -2,15 +2,15 @@
 
 ## Contact Details
 
-### Email Addres
+#### Email Address
 
 hello@wearenext.co.za
 
-### Phone Number
+#### Phone Number
 
 +27 (0)21 447 0058
 
-### Address
+#### Address
 
 Unit 1, Kings Cross Corner 9 Queens Park Avenue Salt River, 7925 South Africa
 
@@ -21,14 +21,14 @@ Unit 1, Kings Cross Corner 9 Queens Park Avenue Salt River, 7925 South Africa
 
 ## Links
 
-### Website
+#### Website
 
 http://www.wearenext.co.za/
 
-### Blog
+#### Blog
 
 http://blog.wearenext.co.za/
 
-### Twitter
+#### Twitter
 
 https://twitter.com/nextct
