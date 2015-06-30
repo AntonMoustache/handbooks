@@ -4,10 +4,11 @@
 
 * [Welcome](#welcome)
 * [Philosophy](#philosophy)
+  * [Monolith First](#monolith-first)
+    * [Further Reading](#further-reading)
 * [Process and Communication](#process-and-communication)
   * [GitHub](#github)
   * [Workflow](#workflow)
-* [Monolith First](#monolith-first)
 * [Prototyping](#prototyping)
   * [Further Reading](#further-reading)
 * [Documentation](#documentation)
@@ -76,6 +77,28 @@ a means to an end.
 > “You're better off with a kick-ass half than a half-assed whole.”
 — [DHH](https://twitter.com/dhh)
 
+#### Monolith First
+
+Modules, packages, libraries and micro services are all great things but they
+are not the place to start new projects. If you get your module boundaries
+wrong from the beginning, which is very likely because you're in the stage when
+you least understand the project, then maintaining and building upon those
+foundations is going to be a nightmare.
+
+We always take the approach of building monoliths first. Once we understand
+module boundaries and how the application is structured we can then start
+destructuring and extracting funcionality into little pieces if needed.
+
+> “I see you have a poorly structured monolith. Would you like me to convert it
+> into a poorly structured set of microservices?” — [Architect Clippy](https://twitter.com/architectclippy/status/570025079825764352?lang=en)
+
+##### Further Reading
+
+- https://www.youtube.com/watch?v=KJVTM7mE1Cc&t=1316
+- http://martinfowler.com/bliki/MonolithFirst.html
+- http://martinfowler.com/bliki/MicroservicePremium.html
+- https://changelog.com/145/
+
 ### Process and Communication
 
 **Never, ever, [go dark](http://blog.codinghorror.com/dont-go-dark/).**
@@ -123,28 +146,6 @@ using Git then please make sure everyone in your team is aware of that.
 - http://scottchacon.com/2011/08/31/github-flow.html
 - http://blog.endpoint.com/2014/05/git-workflows-that-work.html
 - https://help.github.com/articles/github-flow-in-the-browser/
-
-### Monolith First
-
-Modules, packages, libraries and micro services are all great things but they
-are not the place to start new projects. If you get your module boundaries
-wrong from the beginning, which is very likely because you're in the stage when
-you least understand the project, then maintaining and building upon those
-foundations is going to be a nightmare.
-
-We always take the approach of building monoliths first. Once we understand
-module boundaries and how the application is structured we can then start
-destructuring and extracting funcionality into little pieces if needed.
-
-> “I see you have a poorly structured monolith. Would you like me to convert it
-> into a poorly structured set of microservices?” — [Architect Clippy](https://twitter.com/architectclippy/status/570025079825764352?lang=en)
-
-#### Further Reading
-
-- https://www.youtube.com/watch?v=KJVTM7mE1Cc&t=1316
-- http://martinfowler.com/bliki/MonolithFirst.html
-- http://martinfowler.com/bliki/MicroservicePremium.html
-- https://changelog.com/145/
 
 ### Prototyping
 
