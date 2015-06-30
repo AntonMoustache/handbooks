@@ -102,6 +102,10 @@ a branch](http://jonrohan.codes/fieldnotes/dead-simple-git-workflow-for-agile-te
 nobody is going to judge your work. Incomplete code shows progress, thinking
 and attempts at implementation. No code shows nothing.
 
+**All new projects must have our standard
+[labels](https://github.com/we-are-next/github-labels) and
+[issues](https://github.com/we-are-next/github-issues) setup.**
+
 ### Day One
 
 Dedicate the first day of a *new project* to getting the environment setup.
