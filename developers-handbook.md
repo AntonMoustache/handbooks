@@ -6,6 +6,7 @@
 * [Philosophy](#philosophy)
 * [Process and Communication](#process-and-communication)
   * [GitHub](#github)
+  * [Workflow](#workflow)
 * [Monolith First](#monolith-first)
 * [Prototyping](#prototyping)
   * [Further Reading](#further-reading)
@@ -105,6 +106,23 @@ and attempts at implementation. No code shows nothing.
 **All new projects must have our standard
 [labels](https://github.com/we-are-next/github-labels) and
 [issues](https://github.com/we-are-next/github-issues) setup.**
+
+#### Workflow
+
+Our projects are small enough for the [GitHub
+Flow](https://guides.github.com/introduction/flow/) to work perfectly for us!
+This keeps things nice and simple and allows designers, marketers and other
+non-programmers collaborate with us :)
+
+If the descision has been made to use a different method of collaboratingn
+using Git then please make sure everyone in your team is aware of that.
+
+##### Further Reading
+
+- https://guides.github.com/introduction/flow/
+- http://scottchacon.com/2011/08/31/github-flow.html
+- http://blog.endpoint.com/2014/05/git-workflows-that-work.html
+- https://help.github.com/articles/github-flow-in-the-browser/
 
 ### Monolith First
 
