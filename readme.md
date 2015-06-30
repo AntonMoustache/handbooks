@@ -1,4 +1,4 @@
-# Next Readme
+# Welcome to Next!
 
 ## Contact Details
 
