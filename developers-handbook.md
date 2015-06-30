@@ -118,6 +118,9 @@ We always take the approach of building monoliths first. Once we understand
 module boundaries and how the application is structured we can then start
 destructuring and extracting funcionality into little pieces if needed.
 
+> “I see you have a poorly structured monolith. Would you like me to convert it
+> into a poorly structured set of microservices?” — [Architect Clippy](https://twitter.com/architectclippy/status/570025079825764352?lang=en)
+
 #### Further Reading
 
 - https://www.youtube.com/watch?v=KJVTM7mE1Cc&t=1316
