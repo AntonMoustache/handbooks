@@ -4,8 +4,6 @@
 
 > We are Next, we help businesses build things people love to use.
 
-<br>
-
 ## Contact Details
 
 ##### Email Address
