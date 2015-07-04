@@ -194,7 +194,7 @@ _Bonus points for [keeping a changelog](http://keepachangelog.com/)._
 #### Frontend
 
 - HTML
-- Less
+- Less/Sass
 - JavaScript
 
 #### Frameworks
