@@ -291,19 +291,18 @@ application:
 
 Make sure everyone is clear as to performance expectations on a project.  As
 a baseline, make sure you've tested your project using the following tools and
-team members are aware of the general performance results.
+team members are aware of the results as well as bottlenecks or areas of
+improvement.
 
 - [WebPagetest](http://www.webpagetest.org/)
 - [PageSpeed](https://developers.google.com/speed/pagespeed/)
 - [Pingdom Tools](http://tools.pingdom.com/)
-
-#### Other Profiling Tools
-
 - [tmi](https://www.npmjs.com/package/tmi)
 - [CSS Stats](http://cssstats.com/)
 - [Laravel Debugbar](https://github.com/barryvdh/laravel-debugbar)
 
-#### Further Reading
+Performance is a massive topic, but here are some useful places to start
+learning and reading up on the subject.
 
 - [Perf.Rocks](http://perf.rocks/)
 - [Performance Calendar](http://calendar.perfplanet.com/)
@@ -311,11 +310,11 @@ team members are aware of the general performance results.
 
 ### Finer Details
 
-#### SSL
+#### SSL + TLS
 
-SSL is mandatory on any project that expects user input.  It is ultimately the
-clients call as there is a financial cost, but it would be unprofessional of us
-to not educate them of the implications.
+SSL is mandatory on any project that involves user input.  It is ultimately the
+clients call as there is a minor financial cost. It would, however, be
+unprofessional of us to not educate them of the implications.
 
 - Use the [Mozilla SSL Configuration
   Generator](https://mozilla.github.io/server-side-tls/ssl-config-generator/),
@@ -325,14 +324,10 @@ to not educate them of the implications.
 - Test browser support using [Browserstack](https://www.browserstack.com), we
   have a paid account for this very reason.
 
-##### Further Reading
-
-- [Let's Encrypt](https://letsencrypt.org/)
-- [Deprecating Non-Secure HTTP](https://blog.mozilla.org/security/2015/04/30/deprecating-non-secure-http/)
-
 #### Canonical URL's
 
-For canonical urls we use www without trailing slashes.
+For canonical urls we [use www](http://www.yes-www.org/why-use-www/) without
+trailing slashes.
 
 eg. [http://www.wearenext.co.za/people](http://www.wearenext.co.za/people)
 
@@ -341,22 +336,16 @@ against using them because they aren't as aesthetically pleasing, add an
 extra character to url's and often lead to extra work in configuring web
 servers.
 
-Regardless of trailing slash or not, either should work, but the incorrect url
-should perform a 301 Permanent Redirect to the canonical url.
+[Trailing slash or not](http://googlewebmastercentral.blogspot.com/2010/04/to-slash-or-not-to-slash.html), either should work, but the incorrect url
+should ideally perform a 301 Permanent Redirect to the canonical url.
 
 - http://wearenext.co.za redirects to http://www.wearenext.co.za
 - http://wearenext.co.za/people/ redirects to http://www.wearenext.co.za/people
-
-#### Further Reading
-
-- [Why use www?](http://www.yes-www.org/why-use-www/)
-- [To slash or not to slash](http://googlewebmastercentral.blogspot.com/2010/04/to-slash-or-not-to-slash.html)
 
 ### Must Watch
 
 - [Product development = tradeoffs](https://www.youtube.com/watch?v=znBtzBAS9Bo)
 - [How GitHub Uses GitHub to Build GitHub](https://www.youtube.com/watch?v=qyz3jkOBbQY)
-- [How Designers Destroyed the World](https://vimeo.com/68470326)
 
 ### Must Listen
 
