@@ -6,14 +6,18 @@
 
 ### Welcome
 
-**This document, and our company, is a work in progress.**
+Welcome to the Next Developers Handbook!
 
-Changes, suggestions and disagreements are more than welcome! Feel free to send
-a pull request :)
+This is [living documentation](https://en.wikipedia.org/wiki/Living_document)
+about our best practices, technology stack and development standards. It is
+important that these guidelines are considered the baseline for new products
+and services.  Deciding against any of these practices should be discussed with
+your team first.  Similairly, if a project grows big enough to warrant new
+workflows, technologies or systems, please disccuss it with your team first.
 
-Consider these guidelines the baseline for new products and services.  If you
-decide not to implement one of these practices, please communicate that with
-your team.
+Changes and suggestions are welcome! Please do send a [pull
+request](https://github.com/we-are-next/readme/pulls) or [create an
+issue](https://github.com/we-are-next/readme/issues/new) :)
 
 ### Philosophy
 
