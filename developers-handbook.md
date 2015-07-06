@@ -347,8 +347,13 @@ servers.
 [Trailing slash or not](http://googlewebmastercentral.blogspot.com/2010/04/to-slash-or-not-to-slash.html), either should work, but the incorrect url
 should ideally perform a 301 Permanent Redirect to the canonical url.
 
-- http://wearenext.co.za redirects to http://www.wearenext.co.za
-- http://wearenext.co.za/people/ redirects to http://www.wearenext.co.za/people
+```
+http://wearenext.co.za → http://www.wearenext.co.za
+```
+
+```
+http://wearenext.co.za/people/ → http://www.wearenext.co.za/people
+```
 
 ### Must Watch
 
