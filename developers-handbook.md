@@ -132,18 +132,6 @@ idea.
 - [Laravel](http://laravel.com/)
 - [Node](https://nodejs.org/)
 
-#### Services
-
-- [Travis CI](https://magnum.travis-ci.com/) for Continuous Integration.
-- [Digital Ocean](https://www.digitalocean.com/) for hosting.
-- [Laravel Forge](https://forge.laravel.com/) for server provisioning.
-- [Envoyer](https://envoyer.io/) for fancy deployments.
-- [Google Analytics](http://www.google.co.za/analytics/) for user tracking.
-- [Sentry](https://app.getsentry.com/) for error reporting.
-- [Cloudinary](http://cloudinary.com/) for image manipulation and hosting.
-- [New Relic](http://newrelic.com/) for server monitoring.
-- [Browserstack](https://www.browserstack.com) for browser testing.
-
 ### Standards
 
 #### PHP
@@ -151,14 +139,12 @@ idea.
 All PHP code must conform to [PSR-1](http://www.php-fig.org/psr/psr-1/),
 [PSR-2](http://www.php-fig.org/psr/psr-2/) and
 [PSR-4](http://www.php-fig.org/psr/psr-4/). In addition, all PHP should be free
-of any linting errors. See [phplint](https://www.npmjs.com/package/phplint) as
-a faster alternative to using php's native linter.
+of any linting errors.
 
 #### JavaScript
 
-All JavaScript code, browser or other-wise, must conform to our standard
-[ESLint](http://eslint.org/) configuration, which you can get
-[here](https://github.com/we-are-next/javascript).
+All JavaScript code, must conform to our [ESLint](http://eslint.org/)
+ruleset, which can be found [here](https://github.com/we-are-next/javascript).
 
 #### Versioning
 
@@ -178,40 +164,37 @@ All of our build tools are written in JavaScript and run on Node, using either
 [Grunt](http://gruntjs.com/), [Gulp](http://gulpjs.com/) or just plain old
 [NPM](https://www.npmjs.com/).
 
-If possible, `npm install` and `npm start` should be all that's required to get
-your project up and running.
+`npm install` and `npm start` should be all that's required to get your
+dependencies installed and a development server running.
 
-##### Further Reading
+[How to Use npm as a Build
+Tool](http://blog.keithcirkel.co.uk/how-to-use-npm-as-a-build-tool/) is an
+excellent example of keeping things simple.
 
-- [How to Use npm as a Build Tool](http://blog.keithcirkel.co.uk/how-to-use-npm-as-a-build-tool/)
+#### Text Editor
 
-#### Editor
-
-You're welcome to use any editor that you like. We already have Sublime, Vim,
-and WebStorm users in house, yay! With this freedom comes responsibilty though,
-please make sure you add an [EditorConfig](http://editorconfig.org/) to your
-project so that our editors can play along nicely.
-
-If your editor provides handy tooling and plugins, please make sure that you
-have the equivalent setup on CI to bring consistency across different
-environment.
+You're welcome to use any text editor or IDE that you like, but please ship
+a [.editorconfig](http://editorconfig.org/) file with your project. This will
+help our different editors play nicely together.
 
 ### Testing
 
 **All project tests must be setup to run with the `npm test` command.**
 
 Testing is a massive subject, but the important note here is that it is
-irresponsible of us as professionals to not write automated tests. We have
-different preferences as to when we write tests, how to write tests, what tests
-should actually test... but the important thing is that there *are* tests.
+irresponsible of us as professionals to not write tests. We have different
+preferences as to when we write tests, how to write tests, what we should
+actually test... but the important thing is that there *are* tests.
 
-Dont' aim for 100% code coverage, we aren't launching space rockets here,
-well.. not yet. Try have at least some integration tests that make sure
-important routes return a `200 OK` HTTP response code.
+Don't aim for 100% code coverage, we aren't launching space rockets here!  Try
+have at least some integration tests that make sure important routes return
+a `200 OK` HTTP response code.
 
-Laravel ships with an example test that makes sure your home page responds
-successfully. Having this test setup and running on a continuous integration
-server is **infinitely** better than having no tests at all.
+Laravel ships with an [example
+test](https://github.com/laravel/laravel/blob/6df868a123a8445de1aceba1349c550b1247aff0/tests/ExampleTest.php)
+that checks if the home page responds successfully. Having this test setup and
+running on a continuous integration server is **infinitely** better than having
+no tests at all.
 
 Treat each new bug as an opportunity to create a [regression
 test](http://en.wikipedia.org/wiki/Regression_testing) and gradually increase
@@ -219,15 +202,14 @@ your code coverage.
 
 #### Continuous Integration
 
-Continuous integration is mandatory on every project. It should be configured
-as early on in the project as possible, preferably day one. Even if all that's
-happening is linting and style checking - that's great!
+We use [Travis Pro](https://magnum.travis-ci.com/) for continuous integration.
 
-We have a [Travis Pro](https://magnum.travis-ci.com/) account, use it, go crazy
-:)
+CI is mandatory on every project. It should be configured as early on in the
+project as possible, preferably day one. Even if all that's happening is
+linting and style checking - that's great!
 
-Remember, this isn't just for us. We often have external collaborators on code
-and have no control over their development environment or tooling.
+Remember, this isn't just for us. We often work with external collaborators and
+have no control over their development environment or tooling.
 
 ### Monitoring
 
