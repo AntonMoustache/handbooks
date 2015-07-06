@@ -2,7 +2,42 @@
 
 ## Table of Contents
 
-<!-- toc -->
+* [Welcome](#welcome)
+* [Philosophy](#philosophy)
+  * [Monolith First](#monolith-first)
+* [Process and Communication](#process-and-communication)
+  * [GitHub](#github)
+  * [Workflow](#workflow)
+* [Prototyping](#prototyping)
+* [Documentation](#documentation)
+* [Stack](#stack)
+  * [Server](#server)
+  * [Client](#client)
+  * [Frameworks](#frameworks)
+* [Standards](#standards)
+  * [PHP](#php)
+  * [JavaScript](#javascript)
+  * [Versioning](#versioning)
+* [Tooling](#tooling)
+  * [Build Tools](#build-tools)
+  * [Text Editor](#text-editor)
+* [Testing](#testing)
+  * [Continuous Integration](#continuous-integration)
+* [Monitoring](#monitoring)
+  * [Exception Tracking](#exception-tracking)
+  * [Uptime Monitoring](#uptime-monitoring)
+  * [Server Monitoring](#server-monitoring)
+  * [Analytics](#analytics)
+* [Launch Policy](#launch-policy)
+* [Performance](#performance)
+* [Finer Details](#finer-details)
+  * [SSL + TLS](#ssl-tls)
+  * [Canonical URL's](#canonical-urls)
+* [Must Watch](#must-watch)
+* [Must Listen](#must-listen)
+* [Must Read](#must-read)
+* [Learning more](#learning-more)
+* [Zombie Apocalypse](#zombie-apocalypse)
 
 ### Welcome
 
