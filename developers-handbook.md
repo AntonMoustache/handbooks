@@ -102,12 +102,7 @@ Check out the prototyping section of the [Designers Handbook]().
 
 The bare minimum, in terms of documentation, is a readme that has instructions
 for getting a new developer up an running with your project, able to contribute
-code and get that code onto a production or staging server.
-
-A good way to test this is to ask someone who's not working on the project to
-fix a bug or add a feature - but they're not allowed to ask for help. That'll
-soon put your documentation to the test! The aim here is to reduce the [bus
-factor](http://en.wikipedia.org/wiki/Bus_factor) and encourage collaboration.
+code and get code onto a production or staging server.
 
 Beyond a readme the best kind of documentation you can have is [clean
 code](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/ref=sr_1_1?ie=UTF8&qid=1432230912&sr=8-1&keywords=clean+code).
