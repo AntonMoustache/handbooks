@@ -51,20 +51,20 @@ required.
 
 ### Process and Communication
 
-**Never, ever, [go dark](http://blog.codinghorror.com/dont-go-dark/).**
+> Don't go dark. Don't be that guy in the room. Hiding your code until it's
+> "done" may feel safer, but it isn't. - [Jeff Atwood](http://blog.codinghorror.com/dont-go-dark/)
 
-Everything, absolutely everything, happens on
-[Slack](https://wearenext.slack.com/) and
-[GitHub](https://github.com/orgs/we-are-next/dashboard).
+If it's not on [Slack](https://wearenext.slack.com/) or
+[GitHub](https://github.com/orgs/we-are-next/dashboard), it didn't happen.
 
 #### GitHub
-
-**[Check In Early, Check In
-Often](http://blog.codinghorror.com/check-in-early-check-in-often/)**
 
 > “Developers who work for long periods -- and by long I mean more than a day
 > -- without checking anything into source control are setting themselves up
 > for some serious integration headaches down the line.” — [Jeff Atwood](http://en.wikipedia.org/wiki/Jeff_Atwood)
+
+**[Check In Early, Check In
+Often](http://blog.codinghorror.com/check-in-early-check-in-often/)**
 
 The GitHub News Feed is in some ways the news feed of our company. Don't work
 in a vacuum, **if the code isn't checked into source control, it doesn't
@@ -76,21 +76,15 @@ a branch](http://jonrohan.codes/fieldnotes/dead-simple-git-workflow-for-agile-te
 nobody is going to judge your work. Incomplete code shows progress, thinking
 and attempts at implementation. No code shows nothing.
 
-**All new projects must have our standard
-[labels](https://github.com/we-are-next/github-labels) and
-[issues](https://github.com/we-are-next/github-issues) setup.**
-
 #### Workflow
 
-Our projects are small enough for the [GitHub
+Our projects are usually small enough for the [GitHub
 Flow](https://guides.github.com/introduction/flow/) to work perfectly for us!
-This keeps things nice and simple and allows designers, marketers and other
-non-programmers collaborate with us :)
+This keeps things simple as well as inclusive, allowing designers and product
+owners to collaborate with us :)
 
-If the descision has been made to use a different method of collaboratingn
+If the descision has been made to use a different method of collaboration
 using Git then please make sure everyone in your team is aware of that.
-
-##### Further Reading
 
 - https://guides.github.com/introduction/flow/
 - http://scottchacon.com/2011/08/31/github-flow.html
