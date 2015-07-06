@@ -198,7 +198,7 @@ environment.
 
 ### Testing
 
-All project tests should be setup to run with `npm test`.
+**All project tests must be setup to run with the `npm test` command.**
 
 Testing is a massive subject, but the important note here is that it is
 irresponsible of us as professionals to not write automated tests. We have
@@ -231,22 +231,16 @@ and have no control over their development environment or tooling.
 
 ### Monitoring
 
-It is of utmost importance that before code is running on a server all our
-standard monitoring tools are installed. This includes staging servers. Without
-this data we are operating blind as we have no data to base any decisions or
-discussions on.
+Before any code is running on a server, all standard monitoring tools must be
+installed. This includes staging servers.
 
-These services cost money and the decision to not use one of them should be an
-explicit one agreed to by each party involved. The implications of not
-monitoring something for whatever reason need to be well understood.
-
-#### Sentry
+#### Exception Tracking
 
 We use [Sentry](https://app.getsentry.com/) for tracking exceptions.
-Make sure to add user information when it's available. Tracking exceptions down
-their occurrences with individual users is incredibly useful.
+Make sure to add user information when it's available. This allows us to be
+proactive with clients and offer much better customer support.
 
-#### Pingdom
+#### Uptime Monitoring
 
 We use [Pingdom](https://www.pingdom.com/) for uptime monitoring. Pingdom's
 real user metrics are also useful for measuring performance in scenarios where
@@ -256,12 +250,14 @@ Uptime monitoring allows us to proactively communicate with the client about
 an outage and what we are doing to fix it. This puts a positive spin on what
 could otherwise be a negative experience.
 
-#### New Relic
+#### Server Monitoring
+
+We use [New Relic](http://newrelic.com/) for server monitoring.
 
 If we're managing the servers on a project then please make sure New Relic is
 installed. Forge can do this for you :)
 
-#### Google Analytics
+#### Analytics
 
 We use [Google Analytics](http://www.google.co.za/analytics/) for tracking
 custom events and page views. Make sure you get a tracking code from your
