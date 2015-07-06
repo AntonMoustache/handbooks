@@ -173,8 +173,9 @@ idea.
 
 All PHP code must conform to [PSR-1](http://www.php-fig.org/psr/psr-1/),
 [PSR-2](http://www.php-fig.org/psr/psr-2/) and
-[PSR-4](http://www.php-fig.org/psr/psr-4/). In addition, all PHP should be free
-of any linting errors.
+[PSR-4](http://www.php-fig.org/psr/psr-4/).
+
+All PHP must be run through a linter, such as [phplint](https://www.npmjs.com/package/phplint).
 
 #### JavaScript
 
@@ -183,7 +184,9 @@ ruleset, which can be found [here](https://github.com/we-are-next/javascript).
 
 #### Versioning
 
-When it makes sense, code should be versioned using [Semantic Versioning](http://semver.org/).
+When writing packages or modules, they must be versioned using [Semantic
+Versioning](http://semver.org/). We do this to communicate changes to people
+depending on your code.
 
 > Given a version number MAJOR.MINOR.PATCH, increment the:
 >
