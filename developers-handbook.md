@@ -198,15 +198,15 @@ depending on your code.
 
 #### Build Tools
 
+**`npm install` and `npm start` should be all that's required to get your
+dependencies installed and a development server running.**
+
 All of our build tools are written in JavaScript and run on Node, using either
 [Grunt](http://gruntjs.com/), [Gulp](http://gulpjs.com/) or just plain old
 [NPM](https://www.npmjs.com/).
 
-`npm install` and `npm start` should be all that's required to get your
-dependencies installed and a development server running.
-
-[How to Use npm as a Build
-Tool](http://blog.keithcirkel.co.uk/how-to-use-npm-as-a-build-tool/) is an
+Check out [How to Use npm as a Build
+Tool](http://blog.keithcirkel.co.uk/how-to-use-npm-as-a-build-tool/) as an
 excellent example of keeping things simple.
 
 #### Text Editor
@@ -217,7 +217,7 @@ help our different editors play nicely together.
 
 ### Testing
 
-**All project tests must be setup to run with the `npm test` command.**
+**All project tests must run with the `npm test` command.**
 
 Testing is a massive subject, but the important note here is that it is
 irresponsible of us as professionals to not write tests. We have different
