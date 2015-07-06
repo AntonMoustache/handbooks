@@ -270,13 +270,11 @@ smoothly for launch so we need to follow a couple of principles for when we
 launch or release major updates.
 
 1. Never release anything major on a Friday
-2. Get someone else to user test your work (this includes them running your
-   test suite)
+2. Get someone else to test your work
 3. Make sure you are available on release days, don't make other commitments
-4. Go through the [Web Developer Checklist](http://webdevchecklist.com/)
-5. Keep an eye on Sentry notifications and Google Analytics
+4. Keep an eye on Sentry notifications and Google Analytics
 
-Plan for outages. Ask your project lead about the design requirements for
+**Plan for outages.** Ask your project lead about the design requirements for
 4xx/5xx pages and implement them. Test that these pages work and that they will
 be called in the event of 4xx/5xx errors actually happening. Ask your project
 lead about static fallback pages that can be engaged at critical points of the
