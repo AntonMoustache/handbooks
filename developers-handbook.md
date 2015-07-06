@@ -93,21 +93,7 @@ using Git then please make sure everyone in your team is aware of that.
 
 ### Prototyping
 
-> “You're better off with a kick-ass half than a half-assed whole.”
-— [DHH](https://twitter.com/dhh)
-
-We place incredible value on prototyping because prototypes are a common ground
-that encourage discussion and colaboration.  Developers, designers, writers,
-marketers, business owners - everyone understands prototypes.
-
-We use [Invision](http://www.invisionapp.com/) because it’s the easiest way for
-us to stitch static images into experience that people can use and comment on.
-
-#### Further Reading
-
-- [Why We Prototype](http://cognition.happycog.com/article/why-we-prototype)
-- [The Skeptic’s Guide To Low-Fidelity
-  Prototyping](http://www.smashingmagazine.com/2014/10/06/the-skeptics-guide-to-low-fidelity-prototyping/)
+Check out the prototyping section of the [Designers Handbook]().
 
 ### Documentation
 
