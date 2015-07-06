@@ -113,7 +113,7 @@ idea.
 
 ### Stack
 
-#### Backend
+#### Server
 
 - Ubuntu
 - Nginx
@@ -121,7 +121,7 @@ idea.
 - MySQL
 - Memcache
 
-#### Frontend
+#### Client
 
 - HTML
 - Less/Sass
@@ -131,7 +131,6 @@ idea.
 
 - [Laravel](http://laravel.com/)
 - [Node](https://nodejs.org/)
-- [React](https://facebook.github.io/react/)
 
 #### Services
 
