@@ -351,6 +351,7 @@ should ideally perform a 301 Permanent Redirect to the canonical url.
 
 - [Tiny Decisions and Emergent Design](http://fullstackradio.com/episodes/16/)
 - [Architecture, Patterns and Design](http://fullstackradio.com/episodes/9/)
+- [Awesome Podcasts](http://github.com/wayneashleyberry/awesome-podcasts)
 
 ### Must Read
 
@@ -359,27 +360,11 @@ should ideally perform a 301 Permanent Redirect to the canonical url.
 - [Clean Code](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
 - [Rework](http://www.amazon.com/Rework-Jason-Fried/dp/0307463745/ref=sr_1_5)
 - [Getting Real](http://www.amazon.com/Getting-Real-Jason-Fried-ebook/dp/B0053KHGWM/ref=asap_bc?ie=UTF8)
-
-### Further Resources
-
-**[A curated list of awesome lists](https://github.com/sindresorhus/awesome)**
-is a great place to start!
-
-#### Tutorials
-
-We have a paid [Laracasts](https://laracasts.com/) account, use it :)
-
-#### Podcasts
-
-- [Awesome Podcasts](http://github.com/wayneashleyberry/awesome-podcasts)
-
-#### Newsletters
-
 - [Awesome Newsletters](https://github.com/wayneashleyberry/awesome-newsletters)
 
-#### Websites
+### Learning more
 
-- [A List Apart](http://alistapart.com/)
+We have a paid [Laracasts](https://laracasts.com/) account, use it :)
 
 ### Zombie Apocalypse
 
