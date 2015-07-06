@@ -37,20 +37,16 @@ For us, beautiful code is code that is simple, sturdy, well tested and works.
 > into a poorly structured set of microservices?” — [Architect Clippy](https://twitter.com/architectclippy/status/570025079825764352?lang=en)
 
 Modules, packages, libraries and micro services are all great things but they
-are not the place to start new projects. If you get your module boundaries
-wrong from the beginning, which is very likely because you're in the stage when
-you least understand the project, then maintaining and building upon those
-foundations is going to be a nightmare.
+are not the starting point.
 
 We always take the approach of building monoliths first. Once we understand
 module boundaries and how the application is structured we can then start
-destructuring and extracting funcionality into little pieces if needed.
+destructuring, refactoring and extracting funcionality into little pieces if
+required.
 
-##### Further Reading
-
-- https://www.youtube.com/watch?v=KJVTM7mE1Cc&t=1316
 - http://martinfowler.com/bliki/MonolithFirst.html
 - http://martinfowler.com/bliki/MicroservicePremium.html
+- https://www.youtube.com/watch?v=KJVTM7mE1Cc&t=1316
 - https://changelog.com/145/
 
 ### Process and Communication
