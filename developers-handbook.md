@@ -21,12 +21,12 @@ issue](https://github.com/we-are-next/readme/issues/new) :)
 
 ### Philosophy
 
+> “Make it work ➤ Make it right ➤ Make it fast”
+— [DHH](https://twitter.com/dhh/status/600667857639309313)
+
 Much of how we work is inspired by the [Lean Startup
 Principles](http://theleanstartup.com/principles), we love building minimum
 viable products, measuring, learning and iterating over that cycle.
-
-> “Make it work ➤ Make it right ➤ Make it fast”
-— [DHH](https://twitter.com/dhh/status/600667857639309313)
 
 If there were a battle between pragmatism and architectural purism, we'd be
 team pragmatism all the way! Perfectly architected code is great, but that is
