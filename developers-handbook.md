@@ -28,16 +28,13 @@ Much of how we work is inspired by the [Lean Startup
 Principles](http://theleanstartup.com/principles), we love building minimum
 viable products, measuring, learning and iterating over that cycle.
 
-If there were a battle between pragmatism and architectural purism, we'd be
-team pragmatism all the way! Perfectly architected code is great, but that is
-not our goal as a business. We have to meet business requirements and strive to
-make users happier and more productive. At the end of the day, code is just
-a means to an end.
-
-> “You're better off with a kick-ass half than a half-assed whole.”
-— [DHH](https://twitter.com/dhh)
+We love writing beatufiul code! Beauty, however, is in the eye of the beholder.
+For us, beautiful code is code that is simple, sturdy, well tested and works.
 
 #### Monolith First
+
+> “I see you have a poorly structured monolith. Would you like me to convert it
+> into a poorly structured set of microservices?” — [Architect Clippy](https://twitter.com/architectclippy/status/570025079825764352?lang=en)
 
 Modules, packages, libraries and micro services are all great things but they
 are not the place to start new projects. If you get your module boundaries
@@ -48,9 +45,6 @@ foundations is going to be a nightmare.
 We always take the approach of building monoliths first. Once we understand
 module boundaries and how the application is structured we can then start
 destructuring and extracting funcionality into little pieces if needed.
-
-> “I see you have a poorly structured monolith. Would you like me to convert it
-> into a poorly structured set of microservices?” — [Architect Clippy](https://twitter.com/architectclippy/status/570025079825764352?lang=en)
 
 ##### Further Reading
 
@@ -108,6 +102,9 @@ using Git then please make sure everyone in your team is aware of that.
 - https://help.github.com/articles/github-flow-in-the-browser/
 
 ### Prototyping
+
+> “You're better off with a kick-ass half than a half-assed whole.”
+— [DHH](https://twitter.com/dhh)
 
 We place incredible value on prototyping because prototypes are a common ground
 that encourage discussion and colaboration.  Developers, designers, writers,
