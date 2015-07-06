@@ -293,16 +293,7 @@ launch or release major updates.
 
 **Plan for outages.** Ask your project lead about the design requirements for
 4xx/5xx pages and implement them. Test that these pages work and that they will
-be called in the event of 4xx/5xx errors actually happening. Ask your project
-lead about static fallback pages that can be engaged at critical points of the
-application:
-
-1. Is there a static page we can enable, for the homepage, if we need to make
-   changes to the actual homepage during peak traffic?
-2. Is there a static page we can enable, for user profiles, if we need to make
-   changes to the actual profile pages during peak traffic?
-3. Is there a static page we can enable if the commerce/news/whatever
-   application is having a bad day?
+be called in the event of 4xx/5xx errors actually happening.
 
 ### Performance
 
