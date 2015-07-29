@@ -321,9 +321,9 @@ learning and reading up on the subject.
 
 ### Finer Details
 
-#### SSL + TLS
+#### HTTPS + TLS
 
-SSL is mandatory on any project that involves user input.  It is ultimately the
+TLS over HTTPS is mandatory on any project that involves user input.  It is ultimately the
 clients call as there is a minor financial cost. It would, however, be
 unprofessional of us to not educate them of the implications.
 
@@ -334,6 +334,8 @@ unprofessional of us to not educate them of the implications.
   Checker](https://ssltools.thawte.com/checker/views/certCheck.jsp).
 - Test browser support using [Browserstack](https://www.browserstack.com), we
   have a paid account for this very reason.
+
+[10 Reasons To Use HTTPS](https://medium.com/so-now-you-know/10-reasons-to-go-https-a2cba5734bb6)
 
 #### Canonical URL's
 
