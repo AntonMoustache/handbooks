@@ -29,7 +29,7 @@ http://www.wearenext.co.za/
 
 ##### Blog
 
-http://blog.wearenext.co.za/
+http://www.wearenext.co.za/blog/
 
 ##### Twitter
 
