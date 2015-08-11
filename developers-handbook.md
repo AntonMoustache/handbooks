@@ -174,8 +174,8 @@ All PHP must be run through a linter, such as [phplint](https://www.npmjs.com/pa
 
 #### JavaScript
 
-All JavaScript code, must conform to our [ESLint](http://eslint.org/)
-ruleset, which can be found [here](https://github.com/we-are-next/javascript).
+All JavaScript code, must conform to our [ESLint](https://github.com/we-are-next/javascript)
+ruleset.
 
 #### Versioning
 
