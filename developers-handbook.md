@@ -207,7 +207,7 @@ excellent example of keeping things simple.
 #### Text Editor
 
 You’re welcome to use any text editor or IDE that you like, but please ship
-a [.editorconfig](http://editorconfig.org/) file with your project. This will
+an [EditorConfig](http://editorconfig.org/) file with your project. This will
 help our different editors play nicely together.
 
 ### Testing
