@@ -32,7 +32,7 @@
 * [Performance](#performance)
 * [Finer Details](#finer-details)
   * [SSL + TLS](#ssl-tls)
-  * [Canonical URL's](#canonical-urls)
+  * [Canonical URLs](#canonical-urls)
 * [Must Watch](#must-watch)
 * [Must Listen](#must-listen)
 * [Must Read](#must-read)
@@ -337,20 +337,20 @@ unprofessional of us to not educate them of the implications.
 
 [10 Reasons To Use HTTPS](https://medium.com/so-now-you-know/10-reasons-to-go-https-a2cba5734bb6)
 
-#### Canonical URL's
+#### Canonical URLs
 
 For canonical urls we [use www](http://www.yes-www.org/why-use-www/) without
 trailing slashes.
 
 eg. [http://www.wearenext.co.za/people](http://www.wearenext.co.za/people)
 
-To use or not use trailing slash's is a subjective matter.  We have decided
+To use or not use trailing slashes is a subjective matter.  We have decided
 against using them because they aren't as aesthetically pleasing, add an
-extra character to url's and often lead to extra work in configuring web
+extra character to URLs and often lead to extra work in configuring web
 servers.
 
-[Trailing slash or not](http://googlewebmastercentral.blogspot.com/2010/04/to-slash-or-not-to-slash.html), either should work, but the incorrect url
-should ideally perform a 301 Permanent Redirect to the canonical url.
+[Trailing slash or not](http://googlewebmastercentral.blogspot.com/2010/04/to-slash-or-not-to-slash.html), either should work, but the incorrect URL
+should ideally perform a 301 Permanent Redirect to the canonical URL.
 
 ```
 http://wearenext.co.za → http://www.wearenext.co.za
