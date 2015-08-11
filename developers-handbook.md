@@ -47,7 +47,7 @@ about our best practices, technology stack and development standards. It is
 important that these guidelines are considered the baseline for new products
 and services. Deciding against any of these practices should be discussed with
 your team first. Similairly, if a project grows big enough to warrant new
-workflows, technologies or systems, please disccuss it with your team first.
+workflows, technologies or systems, please discuss it with your team first.
 
 Changes and suggestions are welcome! Please do send a [pull
 request](https://github.com/we-are-next/readme/pulls) or [create an
