@@ -371,7 +371,7 @@ http://wearenext.co.za/people/ → http://www.wearenext.co.za/people
 - [The Lean Startup](http://theleanstartup.com/)
 - [The Clean Coder](http://www.amazon.com/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073)
 - [Clean Code](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
-- [Rework](http://www.amazon.com/Rework-Jason-Fried/dp/0307463745/ref=sr_1_5)
+- [Rework](http://www.amazon.com/Rework-Jason-Fried/dp/0307463745)
 - [Getting Real](http://www.amazon.com/Getting-Real-Jason-Fried-ebook/dp/B0053KHGWM)
 - [Awesome Newsletters](https://github.com/wayneashleyberry/awesome-newsletters)
 
