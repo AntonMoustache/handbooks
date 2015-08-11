@@ -75,7 +75,7 @@ are not the starting point.
 
 We always take the approach of building monoliths first. Once we understand
 module boundaries and how the application is structured we can then start
-destructuring, refactoring and extracting funcionality into little pieces if
+destructuring, refactoring and extracting functionality into little pieces if
 required.
 
 - http://martinfowler.com/bliki/MonolithFirst.html
