@@ -87,7 +87,7 @@ required.
 ### Process and Communication
 
 > Don’t go dark. Don’t be that guy in the room. Hiding your code until it’s
-> "done" may feel safer, but it isn’t. - [Jeff Atwood](http://blog.codinghorror.com/dont-go-dark/)
+> "done" may feel safer, but it isn’t. – [Jeff Atwood](http://blog.codinghorror.com/dont-go-dark/)
 
 If it’s not on [Slack](https://wearenext.slack.com/) or
 [GitHub](https://github.com/orgs/we-are-next/dashboard), it didn’t happen.
@@ -244,7 +244,7 @@ We use [Travis Pro](https://magnum.travis-ci.com/) for continuous integration.
 
 CI is mandatory on every project. It should be configured as early on in the
 project as possible, preferably day one. Even if all that’s happening is
-linting and style checking - that’s great!
+linting and style checking – that’s great!
 
 Remember, this isn’t just for us. We often work with external collaborators and
 have no control over their development environment or tooling.
