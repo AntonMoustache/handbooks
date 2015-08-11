@@ -41,7 +41,7 @@
 
 ### Welcome
 
-Welcome to the Next Developers Handbook!
+Welcome to the Next Developer’s Handbook!
 
 This is [living documentation](https://en.wikipedia.org/wiki/Living_document)
 about our best practices, technology stack and development standards. It is
