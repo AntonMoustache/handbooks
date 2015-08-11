@@ -95,7 +95,7 @@ If it’s not on [Slack](https://wearenext.slack.com/) or
 
 > “Developers who work for long periods -- and by long I mean more than a day
 > -- without checking anything into source control are setting themselves up
-> for some serious integration headaches down the line.” – [Jeff Atwood](http://en.wikipedia.org/wiki/Jeff_Atwood)
+> for some serious integration headaches down the line.” – [Jeff Atwood](http://blog.codinghorror.com/about-me/)
 
 **[Check In Early, Check In
 Often](http://blog.codinghorror.com/check-in-early-check-in-often/)**
