@@ -87,7 +87,7 @@ required.
 ### Process and Communication
 
 > Don’t go dark. Don’t be that guy in the room. Hiding your code until it’s
-> "done" may feel safer, but it isn't. - [Jeff Atwood](http://blog.codinghorror.com/dont-go-dark/)
+> "done" may feel safer, but it isn’t. - [Jeff Atwood](http://blog.codinghorror.com/dont-go-dark/)
 
 If it’s not on [Slack](https://wearenext.slack.com/) or
 [GitHub](https://github.com/orgs/we-are-next/dashboard), it didn’t happen.
@@ -102,10 +102,10 @@ If it’s not on [Slack](https://wearenext.slack.com/) or
 Often](http://blog.codinghorror.com/check-in-early-check-in-often/)**
 
 The GitHub News Feed is in some ways the news feed of our company. Don’t work
-in a vacuum, **if the code isn't checked into source control, it doesn't
+in a vacuum, **if the code isn’t checked into source control, it doesn’t
 exist.**
 
-There's a big difference between broken code and incomplete code. If your code
+There’s a big difference between broken code and incomplete code. If your code
 is incomplete [work in
 a branch](http://jonrohan.codes/fieldnotes/dead-simple-git-workflow-for-agile-teams/),
 nobody is going to judge your work. Incomplete code shows progress, thinking
@@ -132,7 +132,7 @@ Check out the prototyping section of the [Designers Handbook]().
 
 ### Documentation
 
-> “A project without documentation is like a project that doesn't exist.”
+> “A project without documentation is like a project that doesn’t exist.”
 — [Verbose](https://github.com/verbose/)
 
 The bare minimum, in terms of documentation, is a readme that has instructions
@@ -142,7 +142,7 @@ code and get code onto a production or staging server.
 Beyond a readme the best kind of documentation you can have is [clean
 code](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/ref=sr_1_1?ie=UTF8&qid=1432230912&sr=8-1&keywords=clean+code).
 
-If you're writing code that other people depend on, for example a library or
+If you’re writing code that other people depend on, for example a library or
 package, then [keeping a changelog](http://keepachangelog.com/) is a very good
 idea.
 
@@ -198,7 +198,7 @@ depending on your code.
 
 #### Build Tools
 
-**`npm install` and `npm start` should be all that's required to get your
+**`npm install` and `npm start` should be all that’s required to get your
 dependencies installed and a development server running.**
 
 All of our build tools are written in JavaScript and run on Node, using either
@@ -211,7 +211,7 @@ excellent example of keeping things simple.
 
 #### Text Editor
 
-You're welcome to use any text editor or IDE that you like, but please ship
+You’re welcome to use any text editor or IDE that you like, but please ship
 a [.editorconfig](http://editorconfig.org/) file with your project. This will
 help our different editors play nicely together.
 
@@ -224,7 +224,7 @@ irresponsible of us as professionals to not write tests. We have different
 preferences as to when we write tests, how to write tests, what we should
 actually test... but the important thing is that there *are* tests.
 
-Don't aim for 100% code coverage, we aren't launching space rockets here!  Try
+Don’t aim for 100% code coverage, we aren’t launching space rockets here!  Try
 have at least some integration tests that make sure important routes return
 a `200 OK` HTTP response code.
 
@@ -243,10 +243,10 @@ your code coverage.
 We use [Travis Pro](https://magnum.travis-ci.com/) for continuous integration.
 
 CI is mandatory on every project. It should be configured as early on in the
-project as possible, preferably day one. Even if all that's happening is
-linting and style checking - that's great!
+project as possible, preferably day one. Even if all that’s happening is
+linting and style checking - that’s great!
 
-Remember, this isn't just for us. We often work with external collaborators and
+Remember, this isn’t just for us. We often work with external collaborators and
 have no control over their development environment or tooling.
 
 ### Monitoring
@@ -257,14 +257,14 @@ installed. This includes staging servers.
 #### Exception Tracking
 
 We use [Sentry](https://app.getsentry.com/) for tracking exceptions.
-Make sure to add user information when it's available. This allows us to be
+Make sure to add user information when it’s available. This allows us to be
 proactive with clients and offer much better customer support.
 
 #### Uptime Monitoring
 
-We use [Pingdom](https://www.pingdom.com/) for uptime monitoring. Pingdom's
+We use [Pingdom](https://www.pingdom.com/) for uptime monitoring. Pingdom’s
 real user metrics are also useful for measuring performance in scenarios where
-New Relic isn't available.
+New Relic isn’t available.
 
 Uptime monitoring allows us to proactively communicate with the client about
 an outage and what we are doing to fix it. This puts a positive spin on what
@@ -274,7 +274,7 @@ could otherwise be a negative experience.
 
 We use [New Relic](http://newrelic.com/) for server monitoring.
 
-If we're managing the servers on a project then please make sure New Relic is
+If we’re managing the servers on a project then please make sure New Relic is
 installed. Forge can do this for you :)
 
 #### Analytics
@@ -291,7 +291,7 @@ launch or release major updates.
 
 1. Never release anything major on a Friday
 2. Get someone else to test your work
-3. Make sure you are available on release days, don't make other commitments
+3. Make sure you are available on release days, don’t make other commitments
 4. Keep an eye on Sentry notifications and Google Analytics
 
 **Plan for outages.** Ask your project lead about the design requirements for
@@ -301,7 +301,7 @@ be called in the event of 4xx/5xx errors actually happening.
 ### Performance
 
 Make sure everyone is clear as to performance expectations on a project.  As
-a baseline, make sure you've tested your project using the following tools and
+a baseline, make sure you’ve tested your project using the following tools and
 team members are aware of the results as well as bottlenecks or areas of
 improvement.
 
@@ -329,7 +329,7 @@ unprofessional of us to not educate them of the implications.
 
 - Use the [Mozilla SSL Configuration
   Generator](https://mozilla.github.io/server-side-tls/ssl-config-generator/),
-  even if you've installed the certificate with Forge.
+  even if you’ve installed the certificate with Forge.
 - Test the installation with the [Thawte SSL Certificate
   Checker](https://ssltools.thawte.com/checker/views/certCheck.jsp).
 - Test browser support using [Browserstack](https://www.browserstack.com), we
@@ -345,7 +345,7 @@ trailing slashes.
 eg. [http://www.wearenext.co.za/people](http://www.wearenext.co.za/people)
 
 To use or not use trailing slashes is a subjective matter.  We have decided
-against using them because they aren't as aesthetically pleasing, add an
+against using them because they aren’t as aesthetically pleasing, add an
 extra character to URLs and often lead to extra work in configuring web
 servers.
 
@@ -390,4 +390,4 @@ In case of a Zombie Apocalypse or an equally catastrophic end of world event,
 you have the freedom to stop working and focus on your survival. We highly
 recommend the [Zombie Survival
 Guide](http://www.amazon.com/Zombie-Survival-Guide-Max-Brooks-ebook/dp/B003WE9WRI/ref=sr_1_1?ie=UTF8&qid=1416475767&sr=8-1&keywords=zombie+survival+guide),
-get the hardcover, your Kindle's not gonna last long without electricity.
+get the hardcover, your Kindle’s not gonna last long without electricity.
