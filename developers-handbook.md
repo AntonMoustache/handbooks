@@ -117,7 +117,7 @@ Flow](https://guides.github.com/introduction/flow/) to work perfectly for us!
 This keeps things simple as well as inclusive, allowing designers and product
 owners to collaborate with us :)
 
-If the descision has been made to use a different method of collaboration
+If the decision has been made to use a different method of collaboration
 using Git then please make sure everyone in your team is aware of that.
 
 - https://guides.github.com/introduction/flow/
