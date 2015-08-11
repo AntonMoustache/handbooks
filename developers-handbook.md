@@ -57,7 +57,7 @@ issue](https://github.com/we-are-next/readme/issues/new) :)
 ### Philosophy
 
 > “Make it work ➤ Make it right ➤ Make it fast”
-— [DHH](https://twitter.com/dhh/status/600667857639309313)
+– [DHH](https://twitter.com/dhh/status/600667857639309313)
 
 Much of how we work is inspired by the [Lean Startup
 Principles](http://theleanstartup.com/principles), we love building minimum
@@ -69,7 +69,7 @@ For us, beautiful code is code that is simple, sturdy, well tested and works.
 #### Monolith First
 
 > “I see you have a poorly structured monolith. Would you like me to convert it
-> into a poorly structured set of microservices?” — [Architect Clippy](https://twitter.com/architectclippy/status/570025079825764352?lang=en)
+> into a poorly structured set of microservices?” – [Architect Clippy](https://twitter.com/architectclippy/status/570025079825764352?lang=en)
 
 Modules, packages, libraries and micro services are all great things but they
 are not the starting point.
@@ -96,7 +96,7 @@ If it’s not on [Slack](https://wearenext.slack.com/) or
 
 > “Developers who work for long periods -- and by long I mean more than a day
 > -- without checking anything into source control are setting themselves up
-> for some serious integration headaches down the line.” — [Jeff Atwood](http://en.wikipedia.org/wiki/Jeff_Atwood)
+> for some serious integration headaches down the line.” – [Jeff Atwood](http://en.wikipedia.org/wiki/Jeff_Atwood)
 
 **[Check In Early, Check In
 Often](http://blog.codinghorror.com/check-in-early-check-in-often/)**
@@ -133,7 +133,7 @@ Check out the prototyping section of the [Designers Handbook]().
 ### Documentation
 
 > “A project without documentation is like a project that doesn’t exist.”
-— [Verbose](https://github.com/verbose/)
+– [Verbose](https://github.com/verbose/)
 
 The bare minimum, in terms of documentation, is a readme that has instructions
 for getting a new developer up an running with your project, able to contribute
