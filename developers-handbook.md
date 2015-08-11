@@ -135,7 +135,7 @@ for getting a new developer up an running with your project, able to contribute
 code and get code onto a production or staging server.
 
 Beyond a readme the best kind of documentation you can have is [clean
-code](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/ref=sr_1_1?ie=UTF8&qid=1432230912&sr=8-1&keywords=clean+code).
+code](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882).
 
 If you’re writing code that other people depend on, for example a library or
 package, then [keeping a changelog](http://keepachangelog.com/) is a very good
