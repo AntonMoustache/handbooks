@@ -183,11 +183,11 @@ When writing packages or modules, they must be versioned using [Semantic
 Versioning](http://semver.org/). We do this to communicate changes to people
 depending on your code.
 
-> Given a version number MAJOR.MINOR.PATCH, increment the:
->
-> 1. MAJOR version when you make incompatible API changes,
-> 2. MINOR version when you add functionality in a backwards-compatible manner,
-> 3. and PATCH version when you make backwards-compatible bug fixes.
+Given a version number MAJOR.MINOR.PATCH, increment the:
+
+1. MAJOR version when you make incompatible API changes,
+2. MINOR version when you add functionality in a backwards-compatible manner,
+3. and PATCH version when you make backwards-compatible bug fixes.
 
 ### Tooling
 
