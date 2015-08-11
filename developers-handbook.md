@@ -46,7 +46,7 @@ This is [living documentation](https://en.wikipedia.org/wiki/Living_document)
 about our best practices, technology stack and development standards. It is
 important that these guidelines are considered the baseline for new products
 and services. Deciding against any of these practices should be discussed with
-your team first. Similairly, if a project grows big enough to warrant new
+your team first. Similarly, if a project grows big enough to warrant new
 workflows, technologies or systems, please discuss it with your team first.
 
 Changes and suggestions are welcome! Please do send a [pull
