@@ -120,10 +120,10 @@ owners to collaborate with us :)
 If the decision has been made to use a different method of collaboration
 using Git then please make sure everyone in your team is aware of that.
 
-- https://guides.github.com/introduction/flow/
-- http://scottchacon.com/2011/08/31/github-flow.html
-- http://blog.endpoint.com/2014/05/git-workflows-that-work.html
-- https://help.github.com/articles/github-flow-in-the-browser/
+- [Understanding the GitHub Flow](https://guides.github.com/introduction/flow/)
+- [GitHub Flow](http://scottchacon.com/2011/08/31/github-flow.html)
+- [Git Workflows That Work](http://blog.endpoint.com/2014/05/git-workflows-that-work.html)
+- [GitHub Flow in the Browser](https://help.github.com/articles/github-flow-in-the-browser/)
 
 ### Documentation
 
