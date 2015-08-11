@@ -219,7 +219,7 @@ irresponsible of us as professionals to not write tests. We have different
 preferences as to when we write tests, how to write tests, what we should
 actually test… but the important thing is that there *are* tests.
 
-Don’t aim for 100% code coverage, we aren’t launching space rockets here!  Try
+Don’t aim for 100% code coverage, we aren’t launching space rockets here! Try
 have at least some integration tests that make sure important routes return
 a `200 OK` HTTP response code.
 
