@@ -337,7 +337,7 @@ unprofessional of us to not educate them of the implications.
 For canonical urls we [use www](http://www.yes-www.org/why-use-www/) without
 trailing slashes.
 
-eg. [http://www.wearenext.co.za/people](http://www.wearenext.co.za/people)
+e.g. [http://www.wearenext.co.za/people](http://www.wearenext.co.za/people)
 
 To use or not use trailing slashes is a subjective matter. We have decided
 against using them because they aren’t as aesthetically pleasing, add an
