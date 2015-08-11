@@ -78,10 +78,10 @@ module boundaries and how the application is structured we can then start
 destructuring, refactoring and extracting functionality into little pieces if
 required.
 
-- http://martinfowler.com/bliki/MonolithFirst.html
-- http://martinfowler.com/bliki/MicroservicePremium.html
-- https://www.youtube.com/watch?v=KJVTM7mE1Cc&t=1316
-- https://changelog.com/145/
+- [MonolithFirst — Martin Fowler](http://martinfowler.com/bliki/MonolithFirst.html)
+- [MicroservicePremium — Martin Fowler](http://martinfowler.com/bliki/MicroservicePremium.html)
+- [RailsConf 2015 — Opening Keynote](https://www.youtube.com/watch?v=KJVTM7mE1Cc&t=1316)
+- [10+ Years of Rails with DHH](https://changelog.com/145/)
 
 ### Process and Communication
 
