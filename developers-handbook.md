@@ -384,5 +384,5 @@ We have a paid [Laracasts](https://laracasts.com/) account, use it :)
 In case of a Zombie Apocalypse or an equally catastrophic end of world event,
 you have the freedom to stop working and focus on your survival. We highly
 recommend the [Zombie Survival
-Guide](http://www.amazon.com/Zombie-Survival-Guide-Max-Brooks-ebook/dp/B003WE9WRI/ref=sr_1_1?ie=UTF8&qid=1416475767&sr=8-1&keywords=zombie+survival+guide),
+Guide](http://www.amazon.com/Zombie-Survival-Guide-Max-Brooks-ebook/dp/B003WE9WRI),
 get the hardcover, your Kindle’s not gonna last long without electricity.
