@@ -1,4 +1,4 @@
-# Developer's Handbook
+# Developer’s Handbook
 
 ## Table of Contents
 
@@ -86,11 +86,11 @@ required.
 
 ### Process and Communication
 
-> Don't go dark. Don't be that guy in the room. Hiding your code until it's
+> Don’t go dark. Don’t be that guy in the room. Hiding your code until it’s
 > "done" may feel safer, but it isn't. - [Jeff Atwood](http://blog.codinghorror.com/dont-go-dark/)
 
-If it's not on [Slack](https://wearenext.slack.com/) or
-[GitHub](https://github.com/orgs/we-are-next/dashboard), it didn't happen.
+If it’s not on [Slack](https://wearenext.slack.com/) or
+[GitHub](https://github.com/orgs/we-are-next/dashboard), it didn’t happen.
 
 #### GitHub
 
@@ -101,7 +101,7 @@ If it's not on [Slack](https://wearenext.slack.com/) or
 **[Check In Early, Check In
 Often](http://blog.codinghorror.com/check-in-early-check-in-often/)**
 
-The GitHub News Feed is in some ways the news feed of our company. Don't work
+The GitHub News Feed is in some ways the news feed of our company. Don’t work
 in a vacuum, **if the code isn't checked into source control, it doesn't
 exist.**
 
