@@ -46,8 +46,8 @@ Welcome to the Next Developer’s Handbook!
 This is [living documentation](https://en.wikipedia.org/wiki/Living_document)
 about our best practices, technology stack and development standards. It is
 important that these guidelines are considered the baseline for new products
-and services.  Deciding against any of these practices should be discussed with
-your team first.  Similairly, if a project grows big enough to warrant new
+and services. Deciding against any of these practices should be discussed with
+your team first. Similairly, if a project grows big enough to warrant new
 workflows, technologies or systems, please disccuss it with your team first.
 
 Changes and suggestions are welcome! Please do send a [pull
@@ -300,7 +300,7 @@ be called in the event of 4xx/5xx errors actually happening.
 
 ### Performance
 
-Make sure everyone is clear as to performance expectations on a project.  As
+Make sure everyone is clear as to performance expectations on a project. As
 a baseline, make sure you’ve tested your project using the following tools and
 team members are aware of the results as well as bottlenecks or areas of
 improvement.
@@ -323,7 +323,7 @@ learning and reading up on the subject.
 
 #### HTTPS + TLS
 
-TLS over HTTPS is mandatory on any project that involves user input.  It is ultimately the
+TLS over HTTPS is mandatory on any project that involves user input. It is ultimately the
 clients call as there is a minor financial cost. It would, however, be
 unprofessional of us to not educate them of the implications.
 
@@ -344,7 +344,7 @@ trailing slashes.
 
 eg. [http://www.wearenext.co.za/people](http://www.wearenext.co.za/people)
 
-To use or not use trailing slashes is a subjective matter.  We have decided
+To use or not use trailing slashes is a subjective matter. We have decided
 against using them because they aren’t as aesthetically pleasing, add an
 extra character to URLs and often lead to extra work in configuring web
 servers.
