@@ -62,7 +62,7 @@ Much of how we work is inspired by the [Lean Startup
 Principles](http://theleanstartup.com/principles), we love building minimum
 viable products, measuring, learning and iterating over that cycle.
 
-We love writing beatufiul code! Beauty, however, is in the eye of the beholder.
+We love writing beautiful code! Beauty, however, is in the eye of the beholder.
 For us, beautiful code is code that is simple, sturdy, well tested and works.
 
 #### Monolith First
