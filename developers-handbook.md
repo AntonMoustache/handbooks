@@ -8,7 +8,6 @@
 * [Process and Communication](#process-and-communication)
   * [GitHub](#github)
   * [Workflow](#workflow)
-* [Prototyping](#prototyping)
 * [Documentation](#documentation)
 * [Stack](#stack)
   * [Server](#server)
@@ -125,10 +124,6 @@ using Git then please make sure everyone in your team is aware of that.
 - http://scottchacon.com/2011/08/31/github-flow.html
 - http://blog.endpoint.com/2014/05/git-workflows-that-work.html
 - https://help.github.com/articles/github-flow-in-the-browser/
-
-### Prototyping
-
-Check out the prototyping section of the [Designers Handbook]().
 
 ### Documentation
 
