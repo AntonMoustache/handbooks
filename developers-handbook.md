@@ -86,7 +86,7 @@ required.
 ### Process and Communication
 
 > Don’t go dark. Don’t be that guy in the room. Hiding your code until it’s
-> "done" may feel safer, but it isn’t. – [Jeff Atwood](http://blog.codinghorror.com/dont-go-dark/)
+> “done” may feel safer, but it isn’t. – [Jeff Atwood](http://blog.codinghorror.com/dont-go-dark/)
 
 If it’s not on [Slack](https://wearenext.slack.com/) or
 [GitHub](https://github.com/orgs/we-are-next/dashboard), it didn’t happen.
