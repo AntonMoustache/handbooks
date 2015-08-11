@@ -68,7 +68,7 @@ For us, beautiful code is code that is simple, sturdy, well tested and works.
 #### Monolith First
 
 > “I see you have a poorly structured monolith. Would you like me to convert it
-> into a poorly structured set of microservices?” – [Architect Clippy](https://twitter.com/architectclippy/status/570025079825764352?lang=en)
+> into a poorly structured set of microservices?” – [Architect Clippy](https://twitter.com/architectclippy/status/570025079825764352)
 
 Modules, packages, libraries and micro services are all great things but they
 are not the starting point.
