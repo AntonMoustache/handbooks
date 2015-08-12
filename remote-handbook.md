@@ -117,7 +117,7 @@ in.
 #### Known Availability
 
 - If you’re not going to be working the hours you normally work, over
-  communicate this to the team by posting in slack (ex: “Going to the gym for
+  communicate this to the team by posting in Slack (e.g. “Going to the gym for
   an hour”).
 - Nothing is more frustrating to team productivity than chat messages like “Has
   anyone seen X?” “When is X getting online?” “Can someone else take this bug?
@@ -142,7 +142,7 @@ in.
   base etc.
 - Access to Slack.
 - Webcam and able to connect to whatever video chat the team want to use. This
-  will usually be shared via slack.
+  will usually be shared via Slack.
 
 #### A Decent Internet Connection
 
