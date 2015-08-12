@@ -7,7 +7,7 @@
     * [Over-communicate](#over-communicate)
     * [Productivity is king](#productivity-is-king)
 * [Working Remotely. An Introduction](#working-remotely-an-introduction)
-    * [What it is and isn't](#what-it-is-and-isnt)
+    * [What it is and isn’t](#what-it-is-and-isnt)
     * [How your job role affects remote working](#how-your-job-role-affects-remote-working)
     * [Who can work remotely](#who-can-work-remotely)
 * [Working Remotely: Expectations](#working-remotely-expectations)
@@ -28,7 +28,7 @@
 
 We’ve put together this guide to make sure everyone is aware of and understands
 the expectations around **flexible working hours** and **remote working**. This
-document does not supersede your employment contract, it's here to help you get
+document does not supersede your employment contract, it’s here to help you get
 shit done, wherever you choose to do it.
 
 We’re always open to feedback and to evolve how we work to improve productivity.
@@ -50,7 +50,7 @@ and Dave (Product Owner).
 
 #### Productivity is king
 
-Flexible working hours are available to everyone so long as you're getting your
+Flexible working hours are available to everyone so long as you’re getting your
 work done.  Remember that it’s designed to maximise productivity and minimise
 distractions and wasted time.
 
@@ -61,7 +61,7 @@ especially when you need uninterrupted concentration time. We also trust you to
 make productive use of your time when working out of the office. We do however
 have some expectations for those of you who choose to work remotely.
 
-#### What it is and isn't
+#### What it is and isn’t
 
 **Working remotely is different to working flexitime.** Remote working means
 that for the agreed period your office desk is off site. You are however
@@ -70,7 +70,7 @@ and delivering as you would, were you in the office.
 
 #### How your job role affects remote working
 
-**There's no one size fits all.** Every one of us fulfills a different role in
+**There’s no one size fits all.** Every one of us fulfills a different role in
 the team and will require different levels of team face to face or client
 interaction. This means that remote working will be practically implemented
 differently with each team member.
@@ -79,7 +79,7 @@ differently with each team member.
 
 **Short answer – Anyone.** Remote working is available to everyone on the
 staff.  However, how often you can work remotely depends on your job role, the
-projects you're working on and the phase of the project the team is currently
+projects you’re working on and the phase of the project the team is currently
 in.
 
 ## Working Remotely: Expectations
@@ -91,10 +91,10 @@ in.
 
 #### Productivity
 
-- Make sure you understand and have set deliverables for the project you're
+- Make sure you understand and have set deliverables for the project you’re
   working on. Ticking off things on the to do list makes it a lot easier for
   you to communicate your productivity.
-- If there aren’t clear deliverables for the work you're busy with, speak to
+- If there aren’t clear deliverables for the work you’re busy with, speak to
   Dave or set your own and share with your project leader.
 
 #### Responsibility
