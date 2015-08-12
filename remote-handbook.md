@@ -6,7 +6,7 @@
 * [Flexible Working Hours](#flexible-working-hours)
     * [Over-communicate](#over-communicate)
     * [Productivity is king](#productivity-is-king)
-* [Working Remotely. An Introduction](#working-remotely-an-introduction)
+* [Working Remotely: An Introduction](#working-remotely-an-introduction)
     * [What it is and isn’t](#what-it-is-and-isnt)
     * [How your job role affects remote working](#how-your-job-role-affects-remote-working)
     * [Who can work remotely](#who-can-work-remotely)
@@ -58,7 +58,7 @@ Flexible working hours are available to everyone so long as you’re getting you
 work done.  Remember that it’s designed to maximise productivity and minimise
 distractions and wasted time.
 
-## Working Remotely. An Introduction
+## Working Remotely: An Introduction
 
 We understand that sometimes the best place to get work done is not the office,
 especially when you need uninterrupted concentration time. We also trust you to
