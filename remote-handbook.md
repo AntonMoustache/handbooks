@@ -139,7 +139,7 @@ in.
 #### A Computer With Everything You Need
 
 - Make sure you have the tools you need; your charger, the software, the code
-  base etc.
+  base, etc.
 - Access to Slack.
 - Webcam and able to connect to whatever video chat the team want to use. This
   will usually be shared via Slack.
@@ -161,8 +161,7 @@ in.
 
 - The people you’re going to be around might not understand that you’re working
   at home and yes, you will actually be working. Make sure you set the right
-  expectations with your spouse, girlfriend, flat-mate, kids, Mother in Law
-  etc.
+  expectations with your spouse, girlfriend, flat-mate, kids, Mother in Law, etc.
 
 #### Pants
 
