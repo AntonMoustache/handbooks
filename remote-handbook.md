@@ -67,7 +67,7 @@ have some expectations for those of you who choose to work remotely.
 
 #### What it is and isn’t
 
-**Working remotely is different to working flexitime.** Remote working means
+**Working remotely is different to working flexi-time.** Remote working means
 that for the agreed period your office desk is off site. You are however
 expected to be at your desk (wherever or whatever that is) working, accessible
 and delivering as you would, were you in the office.
