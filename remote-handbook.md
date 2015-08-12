@@ -2,8 +2,8 @@
 
 ## Table of Contents
 
-* [Working Flexibly, Working Remotely, Working Smartly](#working-flexibly-working-remotely-working-smartly)
-* [First, Let’s Talk About  Flexible Working Hours](#first-lets-talk-about-flexible-working-hours)
+* [Welcome](#welcome)
+* [Flexible Working Hours](#flexible-working-hours)
     * [Over-communicate](#over-communicate)
     * [Productivity is king](#productivity-is-king)
 * [Working Remotely. An Introduction](#working-remotely-an-introduction)
@@ -24,7 +24,9 @@
     * [Have Boundaries](#have-boundaries)
     * [Pants](#pants)
 
-## Working Flexibly, Working Remotely, Working Smartly
+## Welcome
+
+### Working Flexibly, Working Remotely, Working Smartly
 
 We’ve put together this guide to make sure everyone is aware of and understands
 the expectations around **flexible working hours** and **remote working**. This
@@ -33,7 +35,9 @@ shit done, wherever you choose to do it.
 
 We’re always open to feedback and to evolve how we work to improve productivity.
 
-## First, Let’s Talk About  Flexible Working Hours
+## Flexible Working Hours
+
+### First, Let’s Talk About Flexible Working Hours
 
 Remember, Flexi-time is not Remote working.
 
