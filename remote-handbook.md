@@ -102,7 +102,7 @@ in.
 - It’s your responsibility to ensure that the team knows what you’re doing,
   where you’re doing it and why you’re doing it.
 - If we have a sprint or project catch up at the office it’s important that
-  you’re at the office - if you aren’t then you have to get approval beforehand
+  you’re at the office – if you aren’t then you have to get approval beforehand
   and be available for any video catch ups if need be.
 
 ## Things you’ll need to work remotely
