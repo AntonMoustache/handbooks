@@ -43,7 +43,7 @@
 
 Welcome to the Next Developer’s Handbook!
 
-This is [living documentation](https://en.wikipedia.org/wiki/Living_document)
+This is a [living documentation](https://en.wikipedia.org/wiki/Living_document)
 about our best practices, technology stack and development standards. It is
 important that these guidelines are considered the baseline for new products
 and services. Deciding against any of these practices should be discussed with
