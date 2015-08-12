@@ -9,6 +9,7 @@
   * [GitHub](#github)
   * [Workflow](#workflow)
 * [Documentation](#documentation)
+* [Remote Working](#remote-working)
 * [Stack](#stack)
   * [Server](#server)
   * [Client](#client)
@@ -140,6 +141,20 @@ code](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/013235
 If you’re writing code that other people depend on, for example a library or
 package, then [keeping a changelog](http://keepachangelog.com/) is a very good
 idea.
+
+### Remote Working
+
+We want you to be able to work wherever you’re going to get work done. Next has
+had a remote working policy since day one. Which you can read about in depth here.
+But with much freedom comes *some* responsibility.
+
+- **Notice**: Tell people in advance when you’re wanting to work remotely
+- **Communication**: Be more communicative than you’d ordinarily be to make up for the fact that we can’t walk past your computer, bump into you at the watercooler or smell your cologne
+- **Going AFK**: Tell us what you’re doing, tell people when you’re stepping away from the keyboard
+- **Share your work**: when it’s work in progress, when it’s done, when it’s not working out
+- **Save** your code – often
+
+Remote working is kind of a new thing for many people who join us, so we wrote a separate [remote handbook](remote-handbook.md) which you can read about in depth.
 
 ### Stack
 
