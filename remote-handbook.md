@@ -163,11 +163,11 @@ in.
 
 #### Have Boundaries
 
-- The people you’re going to be around might not understand that you’re working
-  at home and yes, you will actually be working. Make sure you set the right
-  expectations with your spouse, girlfriend, flat-mate, kids, Mother in Law, etc.
+The people you’re going to be around might not understand that you’re working
+at home and yes, you will actually be working. Make sure you set the right
+expectations with your spouse, girlfriend, flat-mate, kids, Mother in Law, etc.
 
 #### Pants
 
-- Pants are optional. Just don’t get arrested. If you’re about to get arrested
-  remember to commit that code :-)
+Pants are optional. Just don’t get arrested. If you’re about to get arrested
+remember to commit that code :-)
