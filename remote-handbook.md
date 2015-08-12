@@ -124,7 +124,7 @@ in.
   X isn’t responding.”
 - Try not to pop in and out. Work sustained sessions with only a few
   significant interruptions (e.g., lunch, dog walking, gym, light-saber fight
-  with your nephew, the cops are outside laying low for an hr...).
+  with your nephew, the cops are outside laying low for an hour…).
 
 #### A Proper Place To Work
 
