@@ -153,7 +153,7 @@ in.
 #### You & Your Work Must Be Available To Your Team
 
 - Make sure all your code is committed on Github or your work is in Google
-  docs.  Make sure the files you’ve been working on are available to other team
+  docs. Make sure the files you’ve been working on are available to other team
   members.
 - Should we need to contact you, you must be contactable.
 
