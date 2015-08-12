@@ -78,7 +78,7 @@ differently with each team member.
 #### Who can work remotely
 
 **Short answer – Anyone.** Remote working is available to everyone on the
-staff.  However, how often you can work remotely depends on your job role, the
+staff. However, how often you can work remotely depends on your job role, the
 projects you’re working on and the phase of the project the team is currently
 in.
 
