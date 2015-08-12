@@ -1,4 +1,4 @@
-# Developer’s Handbook
+# [Developer’s Handbook](http://www.wearenext.co.za/readme/developers-handbook/)
 
 ## Table of Contents
 
