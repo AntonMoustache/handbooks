@@ -39,7 +39,7 @@
 * [Learning more](#learning-more)
 * [Zombie Apocalypse](#zombie-apocalypse)
 
-### Welcome
+## Welcome
 
 Welcome to the Next Developer’s Handbook!
 
@@ -54,7 +54,7 @@ Changes and suggestions are welcome! Please do send a [pull
 request](https://github.com/we-are-next/readme/pulls) or [create an
 issue](https://github.com/we-are-next/readme/issues/new) :)
 
-### Philosophy
+## Philosophy
 
 > “Make it work ➤ Make it right ➤ Make it fast”
 – [DHH](https://twitter.com/dhh/status/600667857639309313)
@@ -66,7 +66,7 @@ viable products, measuring, learning and iterating over that cycle.
 We love writing beautiful code! Beauty, however, is in the eye of the beholder.
 For us, beautiful code is code that is simple, sturdy, well tested and works.
 
-#### Monolith First
+### Monolith First
 
 > “I see you have a poorly structured monolith. Would you like me to convert it
 > into a poorly structured set of microservices?” – [Architect Clippy](https://twitter.com/architectclippy/status/570025079825764352)
@@ -84,7 +84,7 @@ required.
 - [RailsConf 2015 — Opening Keynote](https://www.youtube.com/watch?v=KJVTM7mE1Cc&amp;t=1316)
 - [10+ Years of Rails with DHH](https://changelog.com/145/)
 
-### Process and Communication
+## Process and Communication
 
 > Don’t go dark. Don’t be that guy in the room. Hiding your code until it’s
 > “done” may feel safer, but it isn’t. – [Jeff Atwood](http://blog.codinghorror.com/dont-go-dark/)
@@ -92,7 +92,7 @@ required.
 If it’s not on [Slack](https://wearenext.slack.com/) or
 [GitHub](https://github.com/orgs/we-are-next/dashboard), it didn’t happen.
 
-#### GitHub
+### GitHub
 
 > “Developers who work for long periods -- and by long I mean more than a day
 > -- without checking anything into source control are setting themselves up
@@ -111,7 +111,7 @@ a branch](http://jonrohan.codes/fieldnotes/dead-simple-git-workflow-for-agile-te
 nobody is going to judge your work. Incomplete code shows progress, thinking
 and attempts at implementation. No code shows nothing.
 
-#### Workflow
+### Workflow
 
 Our projects are usually small enough for the [GitHub
 Flow](https://guides.github.com/introduction/flow/) to work perfectly for us!
@@ -126,7 +126,7 @@ using Git then please make sure everyone in your team is aware of that.
 - [Git Workflows That Work](http://blog.endpoint.com/2014/05/git-workflows-that-work.html)
 - [GitHub Flow in the Browser](https://help.github.com/articles/github-flow-in-the-browser/)
 
-### Documentation
+## Documentation
 
 > “A project without documentation is like a project that doesn’t exist.”
 – [Verbose](https://github.com/verbose/)
@@ -142,9 +142,9 @@ If you’re writing code that other people depend on, for example a library or
 package, then [keeping a changelog](http://keepachangelog.com/) is a very good
 idea.
 
-### Stack
+## Stack
 
-#### Server
+### Server
 
 - Ubuntu
 - Nginx
@@ -152,20 +152,20 @@ idea.
 - MySQL
 - Memcache
 
-#### Client
+### Client
 
 - HTML
 - Less/Sass
 - JavaScript
 
-#### Frameworks
+### Frameworks
 
 - [Laravel](http://laravel.com/)
 - [Node](https://nodejs.org/)
 
-### Standards
+## Standards
 
-#### PHP
+### PHP
 
 All PHP code must conform to [PSR-1](http://www.php-fig.org/psr/psr-1/),
 [PSR-2](http://www.php-fig.org/psr/psr-2/) and
@@ -173,12 +173,12 @@ All PHP code must conform to [PSR-1](http://www.php-fig.org/psr/psr-1/),
 
 All PHP must be run through a linter, such as [phplint](https://www.npmjs.com/package/phplint).
 
-#### JavaScript
+### JavaScript
 
 All JavaScript code, must conform to our [ESLint](https://github.com/we-are-next/javascript)
 ruleset.
 
-#### Versioning
+### Versioning
 
 When writing packages or modules, they must be versioned using [Semantic
 Versioning](http://semver.org/). We do this to communicate changes to people
@@ -190,9 +190,9 @@ Given a version number MAJOR.MINOR.PATCH, increment the:
 2. MINOR version when you add functionality in a backwards-compatible manner,
 3. and PATCH version when you make backwards-compatible bug fixes.
 
-### Tooling
+## Tooling
 
-#### Build Tools
+### Build Tools
 
 **`npm install` and `npm start` should be all that’s required to get your
 dependencies installed and a development server running.**
@@ -205,13 +205,13 @@ Check out [How to Use npm as a Build
 Tool](http://blog.keithcirkel.co.uk/how-to-use-npm-as-a-build-tool/) as an
 excellent example of keeping things simple.
 
-#### Text Editor
+### Text Editor
 
 You’re welcome to use any text editor or IDE that you like, but please ship
 an [EditorConfig](http://editorconfig.org/) file with your project. This will
 help our different editors play nicely together.
 
-### Testing
+## Testing
 
 **All project tests must run with the `npm test` command.**
 
@@ -234,7 +234,7 @@ Treat each new bug as an opportunity to create a [regression
 test](http://en.wikipedia.org/wiki/Regression_testing) and gradually increase
 your code coverage.
 
-#### Continuous Integration
+### Continuous Integration
 
 We use [Travis Pro](https://magnum.travis-ci.com/) for continuous integration.
 
@@ -245,18 +245,18 @@ linting and style checking – that’s great!
 Remember, this isn’t just for us. We often work with external collaborators and
 have no control over their development environment or tooling.
 
-### Monitoring
+## Monitoring
 
 Before any code is running on a server, all standard monitoring tools must be
 installed. This includes staging servers.
 
-#### Exception Tracking
+### Exception Tracking
 
 We use [Sentry](https://app.getsentry.com/) for tracking exceptions.
 Make sure to add user information when it’s available. This allows us to be
 proactive with clients and offer much better customer support.
 
-#### Uptime Monitoring
+### Uptime Monitoring
 
 We use [Pingdom](https://www.pingdom.com/) for uptime monitoring. Pingdom’s
 real user metrics are also useful for measuring performance in scenarios where
@@ -266,20 +266,20 @@ Uptime monitoring allows us to proactively communicate with the client about
 an outage and what we are doing to fix it. This puts a positive spin on what
 could otherwise be a negative experience.
 
-#### Server Monitoring
+### Server Monitoring
 
 We use [New Relic](http://newrelic.com/) for server monitoring.
 
 If we’re managing the servers on a project then please make sure New Relic is
 installed. Forge can do this for you :)
 
-#### Analytics
+### Analytics
 
 We use [Google Analytics](http://www.google.co.za/analytics/) for tracking
 custom events and page views. Make sure you get a tracking code from your
 product owner. Refuse to launch without one, even on staging.
 
-### Launch Policy
+## Launch Policy
 
 When we launch, things get real. We can never be 100% certain things will go
 smoothly for launch so we need to follow a couple of principles for when we
@@ -294,7 +294,7 @@ launch or release major updates.
 4xx/5xx pages and implement them. Test that these pages work and that they will
 be called in the event of 4xx/5xx errors actually happening.
 
-### Performance
+## Performance
 
 Make sure everyone is clear as to performance expectations on a project. As
 a baseline, make sure you’ve tested your project using the following tools and
@@ -315,9 +315,9 @@ learning and reading up on the subject.
 - [Performance Calendar](http://calendar.perfplanet.com/)
 - [How Users Perceive the Speed of The Web](https://www.youtube.com/watch?v=2ksXo2_Lfl0)
 
-### Finer Details
+## Finer Details
 
-#### HTTPS + TLS
+### HTTPS + TLS
 
 TLS over HTTPS is mandatory on any project that involves user input. It is ultimately the
 clients call as there is a minor financial cost. It would, however, be
@@ -333,7 +333,7 @@ unprofessional of us to not educate them of the implications.
 
 [10 Reasons To Use HTTPS](https://medium.com/so-now-you-know/10-reasons-to-go-https-a2cba5734bb6)
 
-#### Canonical URLs
+### Canonical URLs
 
 For canonical urls we [use www](http://www.yes-www.org/why-use-www/) without
 trailing slashes.
@@ -356,7 +356,7 @@ http://wearenext.co.za → http://www.wearenext.co.za
 http://wearenext.co.za/people/ → http://www.wearenext.co.za/people
 ```
 
-### Remote Working
+## Remote Working
 
 We want you to be able to work wherever you’re going to get work done. Next has
 had a remote working policy since day one. Which you can read about in depth here.
@@ -370,18 +370,18 @@ But with much freedom comes *some* responsibility.
 
 Remote working is kind of a new thing for many people who join us, so we wrote a separate [remote handbook](remote-handbook.md) which you can read about in depth.
 
-### Must Watch
+## Must Watch
 
 - [Product development = tradeoffs](https://www.youtube.com/watch?v=znBtzBAS9Bo)
 - [How GitHub Uses GitHub to Build GitHub](https://www.youtube.com/watch?v=qyz3jkOBbQY)
 
-### Must Listen
+## Must Listen
 
 - [Tiny Decisions and Emergent Design](http://fullstackradio.com/episodes/16/)
 - [Architecture, Patterns and Design](http://fullstackradio.com/episodes/9/)
 - [Awesome Podcasts](http://github.com/wayneashleyberry/awesome-podcasts)
 
-### Must Read
+## Must Read
 
 - [The Lean Startup](http://theleanstartup.com/)
 - [The Clean Coder](http://www.amazon.com/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073)
@@ -390,11 +390,11 @@ Remote working is kind of a new thing for many people who join us, so we wrote a
 - [Getting Real](http://www.amazon.com/Getting-Real-Jason-Fried-ebook/dp/B0053KHGWM)
 - [Awesome Newsletters](https://github.com/wayneashleyberry/awesome-newsletters)
 
-### Learning more
+## Learning more
 
 We have a paid [Laracasts](https://laracasts.com/) account, use it :)
 
-### Zombie Apocalypse
+## Zombie Apocalypse
 
 In case of a Zombie Apocalypse or an equally catastrophic end of world event,
 you have the freedom to stop working and focus on your survival. We highly
