@@ -53,7 +53,7 @@ workflows, technologies or systems, please discuss it with your team first.
 
 ## Philosophy
 
-> “Make it work ➤ Make it right ➤ Make it fast”
+> Make it work ➤ Make it right ➤ Make it fast
 – [DHH](https://twitter.com/dhh/status/600667857639309313)
 
 Much of how we work is inspired by the [Lean Startup
