@@ -1,4 +1,26 @@
-##  Welcome
+# [Designer’s Handbook](http://www.wearenext.co.za/readme/developers-handbook/)
+
+## Table of Contents
+
+* [Welcome](#welcome)
+* [What Design is. What it’s not.](#what-design-is-what-its-not)
+* [Design is wasteful. Embrace it.](#design-is-wasteful-embrace-it)
+* [Process](#process)
+* [Collaboration](#collaboration)
+* [Respect](#respect)
+* [Sprints](#sprints)
+* [Remote Working](#remote-working)
+* [Communication](#communication)
+* [Tooling](#tooling)
+* [Discovery](#discovery)
+* [Design Process](#design-process)
+* [Testing](#testing)
+* [Design Standards: Usability & Experience](#design-standards-usability--experience)
+* [Design Standards: Execution](#design-standards-execution)
+* [Style Guides](#style-guides)
+* [Contributing](#contributing)
+
+## Welcome
 
 This document, like this company, is a work in progress. We welcome changes, suggestions and improvements. Consider these guidelines the baseline for new products and services that we build together.
 
@@ -6,7 +28,7 @@ This document, like this company, is a work in progress. We welcome changes, sug
 >
 > – Kyle Steed
 
-##  What Design is. What it’s not.
+## What Design is. What it’s not.
 
 At Next, everyone involved in the creation process, designs. Whether you do that with code, words, sketches or software is irrelevant. If you’re making or shaping the way a product works, you’re designing.
 
@@ -16,7 +38,7 @@ At Next, everyone involved in the creation process, designs. Whether you do that
 
 Aesthetics are important, but they are not design. Design is solving a problem. And we solve problems with decisions about how software, processes and services can and should work. We do that in fluid and dynamic teams. We do it with respect and mutual deference. We do it inclusively. We do it pragmatically and professionally.
 
-##  Design is wasteful. Embrace it.
+## Design is wasteful. Embrace it.
 
 A brief is a quarry. A problem well defined is a rock hewn out of the quarry. The design process is _everything_ that it takes to turn that rock into something of use.
 
@@ -28,7 +50,7 @@ Be wasteful in the beginning so you can be calculated in the end.
 
 Embrace the fact that 90% of your work will lie on the workshop floor. But it will inform the 10% that matters.
 
-##  Process
+## Process
 
 > Inspiration exists, but it has to find you working.
 >
@@ -42,15 +64,15 @@ Discussing ideas in the context of a design, regardless of how polished, is the 
 
 Having said that, we _do_ insist on some textual documentation, and whenever we do documentation we want it to be useful, because bad documentation is not only pointless, it’s a waste of time.
 
-##  Collaboration
+## Collaboration
 
 Because designing is solving problems we involve a broader spectrum of people in the design phase of our projects. Strategists, Developers and Clients contribute to the design of every experience we build. That means getting used to having people sharing opinions and ideas. It means learning how to hold subjective opinions lightly. It means learning how to choose what feedback to include and exclude. It means learning how to value what’s right over what’s nice. None of this is easy, but what comes out of it is better.
 
-##  Respect
+## Respect
 
 Collaboration requires respect. Whether this is your first job or your tenth, if you work here its because we respect you. Respectfully agree, respectfully disagree. Be passionate about your ideas, be passionately opposed to an idea. It’s fine. Just do it with respect. Always.
 
-##  Sprints
+## Sprints
 
 The Next studio runs on a 5 day sprint system which starts on Monday. This makes it easy to manage workflows and to plan who is working on what and when. We plan our workflows a week at a time.
 
@@ -70,7 +92,7 @@ Weeklies are one of the very few meetings we have where we review work done / no
 * You’re only required in a weekly, if you’re working on that client/project in the sprint
 * As soon as you’re no longer required in the Weekly, you can go
 
-##  Remote Working
+## Remote Working
 
 ### Work Wherever Work gets Done
 
@@ -84,7 +106,7 @@ We want you to be able to work wherever you’re going to get work done. Next ha
 
 Remote working is kind of a new thing for many people who join us, so we wrote a separate [remote handbook][4] which you can read about in depth.
 
-##  Communication
+## Communication
 
 Never. Ever. [Go. Dark.][5]
 
@@ -94,7 +116,7 @@ We run our entire business through Slack and GitHub. If you’re not available o
 
 Some people are less communicative than others. We get that. But if you want to work remotely you have to be a good communicator. Not just in _our_ company. In any company.
 
-##  Tooling
+## Tooling
 
 You’re encouraged to use whatever you want to get your ideas out of your head and in front of people, but there are some tools that we either recommend or require you to use so that we can play nicely together and get shit done.
 
@@ -130,7 +152,7 @@ If you’re not writing code, you’ll experience GitHub as a project management
 
 For anything that doesn’t have a repository in GitHub, we have a Next Wunderlist account. It’s a simple to do list app. You can use it however you want to.
 
-##  Discovery
+## Discovery
 
 We cannot create a solution to a problem we do not understand. We consider researching, immersion and creating documentation as the kickoff for the design process.
 
@@ -163,7 +185,7 @@ Jobs to be done is a different approach to User Personas focused on understandin
 
 User Journey Maps chart the flow of a user through a website and is particularly useful when the product is transactional, with complex interfaces and logic determining how a user experiences a product.
 
-##  Design Process
+## Design Process
 
 We’re not big on enforcing a rigid process on any and all problems, but if we take a step back and look at the work we’ve done to date our design process tends to follow a common pattern and set of priorities.
 
@@ -210,7 +232,7 @@ We don’t often design in the browser, but we always [decide in the browser][11
 
 Integration is the last frontier of the design process. Integration can and will influence our designs. So we embrace it and use this time to make our design better.
 
-##  Testing
+## Testing
 
 ### Self Testing
 
@@ -227,7 +249,7 @@ You shouldn’t design a website or interface without a clear KPI in mind. We re
 
 We’re busy researching this topic and are putting together an approach to conducting usability tests with users.
 
-##  Design Standards: Usability & Experience
+## Design Standards: Usability & Experience
 
 We’re proponents of the tenets of [Universal Design][12], which we’ve adapted slightly for non-physical products and interfaces. Some of these principles are essential – some of them are north stars, seemingly unattainable but to be pursued at all costs.
 
@@ -263,7 +285,7 @@ The design can be used efficiently and comfortably and with a minimum of fatigue
 
 Appropriate size and space is provided for approach, reach, manipulation, and use regardless of user’s size, posture, or mobility.
 
-##  Design Standards: Execution
+## Design Standards: Execution
 
 ### Layout
 
@@ -285,7 +307,7 @@ Basic rule of thumb here: this is Africa – reduce your file sizes. Uncompresse
 
 We believe that the role of animation in interaction design is primarily one of visual communication, that is using movement and changing states of objects to convey a message to a user. Animation for animation’s sake can become confusing and interfere with performance across browsers and devices.
 
-##  Style Guides
+## Style Guides
 
 At Next, the style guides we create are the manifestations of our design systems. They provide our clients with the scalability to support their business or product into the future on the Web. A style guide helps to maintain the brand design and code consistency of the website as it grows over time.
 
@@ -309,7 +331,9 @@ Patterns are groups of elements that are combined to function together as a unit
 
 Templates are built from elements and patterns which have been combined together. They provide context and are focused on structure as opposed to actual content.
 
-##  This is Your Company. This is Your Book.
+## Contributing
+
+### This is Your Company. This is Your Book.
 
 If you’ve found this book helpful, awesome. If you think there are some additional things we should add to it, even better. We want joining next to be as seamless an experience as possible. To make a suggestion add an [issue][19], or submit a pull request on GitHub. If that’s confusing, send a mail to [readme@wearenext.co.za][20]
 
