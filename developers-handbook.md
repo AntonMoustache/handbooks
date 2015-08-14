@@ -322,11 +322,11 @@ unprofessional of us to not educate them of the implications.
 
 - Use the [Mozilla SSL Configuration
   Generator](https://mozilla.github.io/server-side-tls/ssl-config-generator/),
-  even if you’ve installed the certificate with Forge.
+  even if you’ve installed the certificate with Forge
 - Test the installation with the [Thawte SSL Certificate
-  Checker](https://ssltools.thawte.com/checker/views/certCheck.jsp).
+  Checker](https://ssltools.thawte.com/checker/views/certCheck.jsp)
 - Test browser support using [BrowserStack](https://www.browserstack.com), we
-  have a paid account for this very reason.
+  have a paid account for this very reason
 
 [10 Reasons To Use HTTPS](https://medium.com/so-now-you-know/10-reasons-to-go-https-a2cba5734bb6)
 
