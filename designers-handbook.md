@@ -172,7 +172,7 @@ We're not big on enforcing a rigid process on any and all problems, but if we ta
 
 > Content precedes design. Design in the absence of content is not design, it's decoration.
 >
-> — [Jeffrey Zeldman][10]
+> — [Jeffrey Zeldman][7]
 
 Design is giving shape and form to content. For that statement to be true, you need to consider content as being more than words and media. It's the substance of the design.
 
