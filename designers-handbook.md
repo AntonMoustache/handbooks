@@ -13,7 +13,7 @@ At Next, everyone involved in the creation process, designs. Whether you do that
 
 > Design is a set of decisions about a product. It's not an interface or an aesthetic, it's not a brand or a color. Design is the actual decisions.
 >
-> – [Rebekah Cox][4]
+> – [Rebekah Cox][1]
 
 Aesthetics are important, but they are not design. Design is solving a problem. And we solve problems with decisions about how software, processes and services can and should work. We do that in fluid and dynamic teams. We do it with respect and mutual deference. We do it inclusively. We do it pragmatically and professionally.
 
@@ -59,7 +59,7 @@ The Next studio runs on a 5 day sprint system which starts on Monday. This makes
 
 * Your workload should be clear at the start of the sprint
 * You should not get any new work allocated once the sprint has started
-* Any work labeled as [high priority][5] should be done first, [low priority][6] last
+* Any work labeled as [high priority][2] should be done first, [low priority][3] last
 * If you're assigned too much / too little work, speak up – preferably sooner than later
 
 ### Weeklies
@@ -83,11 +83,11 @@ We want you to be able to work wherever you're going to get work done. Next has 
 * **Share your work**: when it's work in progress, when it's done, when it's not working out
 * **Save** your designs – often
 
-Remote working is kind of a new thing for many people who join us, so we wrote a separate [remote handbook][7] which you can read about in depth.
+Remote working is kind of a new thing for many people who join us, so we wrote a separate [remote handbook][4] which you can read about in depth.
 
 ##  Communication
 
-Never. Ever. [Go. Dark.][8]
+Never. Ever. [Go. Dark.][5]
 
 We run our entire business through Slack and GitHub. If you're not available on Slack, you're not in the office. If you're not committing code or closing issues on GitHub, or uploading designs to InVision you're not at work.
 
@@ -113,7 +113,7 @@ If you're designing an interface, InVision helps you turn static designs into an
 
 ### The Style Guide
 
-It's important mentioning that almost everything that gets designed at next will become a Style guide before being implemented into a website or app. At Next we have our own [boilerplate style guide][9] that is adapted for each client and project. It's central to our design workflow.
+It's important mentioning that almost everything that gets designed at next will become a Style guide before being implemented into a website or app. At Next we have our own [boilerplate style guide][6] that is adapted for each client and project. It's central to our design workflow.
 
 ### Google Apps
 
@@ -217,8 +217,8 @@ Integration is the last frontier of the design process. Integration can and will
 
 Check yo'self before you wreck yo'self – there are some great tools to help you test your ideas, colours, typography, etc.
 
-* [Contrast Ratio][13]
-* [Golden Ratio Typography Calculator][14]
+* [Contrast Ratio][10]
+* [Golden Ratio Typography Calculator][11]
 
 ### Data Driven Testing
 
@@ -230,7 +230,7 @@ We're busy researching this topic and are putting together an approach to conduc
 
 ##  Design Standards: Usability & Experience
 
-We're proponents of the tenets of [Universal Design][15], which we've adapted slightly for non-physical products and interfaces. Some of these principles are essential – some of them are north stars, seemingly unattainable but to be pursued at all costs.
+We're proponents of the tenets of [Universal Design][12], which we've adapted slightly for non-physical products and interfaces. Some of these principles are essential – some of them are north stars, seemingly unattainable but to be pursued at all costs.
 
 ### User First
 
@@ -268,7 +268,7 @@ Appropriate size and space is provided for approach, reach, manipulation, and us
 
 ### Layout
 
-Designing for a multi device world means catering for screens of all sizes and kinds that are used in a number of contexts. It is more helpful to think of design in terms of screen sizes – and less helpful to think of design in terms of device type. For this reason we almost always design interfaces using a relative or a [fluid grid system][16]. Very few static design tools allow users to work this way, which is why we always decide in the browser. Even so, it is possible to accommodate this by designing using percentages of viewport width.
+Designing for a multi device world means catering for screens of all sizes and kinds that are used in a number of contexts. It is more helpful to think of design in terms of screen sizes – and less helpful to think of design in terms of device type. For this reason we almost always design interfaces using a relative or a [fluid grid system][13]. Very few static design tools allow users to work this way, which is why we always decide in the browser. Even so, it is possible to accommodate this by designing using percentages of viewport width.
 
 ### Typography
 
@@ -276,13 +276,13 @@ In a multi device world Typography is equally as challenging as page layout. Whe
 
 ### Media
 
-Basic rule of thumb here: this is Africa – reduce your file sizes. Uncompressed images kill page load speeds and performance. We use [Kraken][17] to compress our images as far as we can without them looking shitty, and wherever possible load [optimally sized responsive images][18] and typically outsource video hosting to third parties like [YouTube][19] or [Wistia][20].
+Basic rule of thumb here: this is Africa – reduce your file sizes. Uncompressed images kill page load speeds and performance. We use [Kraken][14] to compress our images as far as we can without them looking shitty, and wherever possible load [optimally sized responsive images][15] and typically outsource video hosting to third parties like [YouTube][16] or [Wistia][17].
 
 ### Animation
 
 > Animation can help to provide context. It helps brains understand how the information flows.
 >
-> – [Pasquale D'Silva][21]
+> – [Pasquale D'Silva][18]
 
 We believe that the role of animation in interaction design is primarily one of visual communication, that is using movement and changing states of objects to convey a message to a user. Animation for animation's sake can become confusing and interfere with performance across browsers and devices.
 
@@ -312,28 +312,25 @@ Templates are built from elements and patterns which have been combined together
 
 ##  This is Your Company. This is Your Book.
 
-If you've found this book helpful, awesome. If you think there are some additional things we should add to it, even better. We want joining next to be as seamless an experience as possible. To make a suggestion add an [issue][22], or submit a pull request on GitHub. If that's confusing, send a mail to [readme@wearenext.co.za][23]
+If you've found this book helpful, awesome. If you think there are some additional things we should add to it, even better. We want joining next to be as seamless an experience as possible. To make a suggestion add an [issue][19], or submit a pull request on GitHub. If that's confusing, send a mail to [readme@wearenext.co.za][20]
 
-[1]: http://www.wearenext.co.za/assets/images/logos/logo-next-light-57x22.png
-[2]: /readme/
-[3]: /readme/#handbooks
-[4]: http://rebekah.quora.com/Design-Quora-Web2-0-Expo-Presentation
-[5]: https://github.com/issues?q=label%3A%22high+priority%22+user%3Awe-are-next+is%3Aopen
-[6]: https://github.com/issues?q=label%3A%22low+priority%22+user%3Awe-are-next+is%3Aopen
-[7]: /readme/remote-handbook/
-[8]: http://blog.codinghorror.com/dont-go-dark/
-[9]: http://static.wearenext.co.za/styleguide/styleguide/
-[10]: https://twitter.com/zeldman/status/804159148
-[11]: https://the-pastry-box-project.net/dan-mall/2012-september-12
-[12]: http://feltpresence.com/articles/19-what-ui-really-is-and-how-ux-%20confuses-matters
-[13]: http://leaverou.github.io/contrast-ratio/
-[14]: http://www.pearsonified.com/typography/
-[15]: http://www.ncsu.edu/ncsu/design/cud/pubs_p/docs/poster.pdf
-[16]: http://alistapart.com/article/fluidgrids
-[17]: https://kraken.io/
-[18]: http://www.smashingmagazine.com/2014/05/responsive-images-done-right-guide-picture-srcset/
-[19]: https://www.youtube.com/
-[20]: http://wistia.com/
-[21]: https://medium.com/@pasql/transitional-interfaces-926eb80d64e3
-[22]: https://github.com/we-are-next/wearenext.co.za/issues/new
-[23]: mailto:readme@wearenext.co.za
+[1]: http://rebekah.quora.com/Design-Quora-Web2-0-Expo-Presentation
+[2]: https://github.com/issues?q=label%3A%22high+priority%22+user%3Awe-are-next+is%3Aopen
+[3]: https://github.com/issues?q=label%3A%22low+priority%22+user%3Awe-are-next+is%3Aopen
+[4]: /readme/remote-handbook/
+[5]: http://blog.codinghorror.com/dont-go-dark/
+[6]: http://static.wearenext.co.za/styleguide/styleguide/
+[7]: https://twitter.com/zeldman/status/804159148
+[8]: https://the-pastry-box-project.net/dan-mall/2012-september-12
+[9]: http://feltpresence.com/articles/19-what-ui-really-is-and-how-ux-%20confuses-matters
+[10]: http://leaverou.github.io/contrast-ratio/
+[11]: http://www.pearsonified.com/typography/
+[12]: http://www.ncsu.edu/ncsu/design/cud/pubs_p/docs/poster.pdf
+[13]: http://alistapart.com/article/fluidgrids
+[14]: https://kraken.io/
+[15]: http://www.smashingmagazine.com/2014/05/responsive-images-done-right-guide-picture-srcset/
+[16]: https://www.youtube.com/
+[17]: http://wistia.com/
+[18]: https://medium.com/@pasql/transitional-interfaces-926eb80d64e3
+[19]: https://github.com/we-are-next/wearenext.co.za/issues/new
+[20]: mailto:readme@wearenext.co.za
