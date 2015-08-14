@@ -23,6 +23,7 @@
     * [You & Your Work Must Be Available To Your Team](#you-your-work-must-be-available-to-your-team)
     * [Have Boundaries](#have-boundaries)
     * [Pants](#pants)
+* [Contributing](#contributing)
 
 ## Welcome
 
@@ -171,3 +172,11 @@ expectations with your spouse, girlfriend, flat-mate, kids, Mother in Law, etc.
 
 Pants are optional. Just don’t get arrested. If you’re about to get arrested
 remember to commit that code :-)
+
+## Contributing
+
+### This is Your Company. This is Your Book.
+
+If you’ve found this book helpful, awesome. If you think there are some additional things we should add to it, even better.
+We want joining next to be as seamless an experience as possible. To make a suggestion add an [issue](https://github.com/we-are-next/wearenext.co.za/issues/new),
+or submit a pull request on GitHub. If that’s confusing, send a mail to [readme@wearenext.co.za](mailto:readme@wearenext.co.za).
