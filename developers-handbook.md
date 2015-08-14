@@ -38,6 +38,7 @@
 * [Must Read](#must-read)
 * [Learning more](#learning-more)
 * [Zombie Apocalypse](#zombie-apocalypse)
+* [Contributing](#contributing)
 
 ## Welcome
 
@@ -49,10 +50,6 @@ important that these guidelines are considered the baseline for new products
 and services. Deciding against any of these practices should be discussed with
 your team first. Similarly, if a project grows big enough to warrant new
 workflows, technologies or systems, please discuss it with your team first.
-
-Changes and suggestions are welcome! Please do send a [pull
-request](https://github.com/we-are-next/readme/pulls) or [create an
-issue](https://github.com/we-are-next/readme/issues/new) :)
 
 ## Philosophy
 
@@ -401,3 +398,11 @@ you have the freedom to stop working and focus on your survival. We highly
 recommend the [Zombie Survival
 Guide](http://www.amazon.com/Zombie-Survival-Guide-Max-Brooks-ebook/dp/B003WE9WRI),
 get the hardcover, your Kindle’s not gonna last long without electricity.
+
+## Contributing
+
+### This is Your Company. This is Your Book.
+
+If you’ve found this book helpful, awesome. If you think there are some additional things we should add to it, even better.
+We want joining next to be as seamless an experience as possible. To make a suggestion add an [issue](https://github.com/we-are-next/wearenext.co.za/issues/new),
+or submit a pull request on GitHub. If that’s confusing, send a mail to [readme@wearenext.co.za](mailto:readme@wearenext.co.za).
