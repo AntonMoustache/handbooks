@@ -342,7 +342,7 @@ If you’ve found this book helpful, awesome. If you think there are some additi
 [3]: https://github.com/issues?q=label%3A%22low+priority%22+user%3Awe-are-next+is%3Aopen
 [4]: /readme/remote-handbook/
 [5]: http://blog.codinghorror.com/dont-go-dark/
-[6]: http://static.wearenext.co.za/styleguide/styleguide/
+[6]: http://s3.amazonaws.com/wearenext/static/styleguide/styleguide/index.html
 [7]: https://twitter.com/zeldman/status/804159148
 [8]: https://the-pastry-box-project.net/dan-mall/2012-september-12
 [9]: http://feltpresence.com/articles/19-what-ui-really-is-and-how-ux-%20confuses-matters
