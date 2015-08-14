@@ -209,7 +209,7 @@ Done is really simple, so use it all the time. When you finish something, when y
 
 * Don’t wait until you’ve finished a task, track time as you go along
 * Remember to track once a day, we recommend you track every time you switch contexts or take a break
-* If you forget to log something, you can log it the next day by prepending [`yesterday]` to your message
+* If you forget to log something, you can log it the next day by prepending `[yesterday]` to your message
 * You can undo your last entry by typing `/done undo`
 
 ## Remote Working and Flexi Time
