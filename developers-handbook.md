@@ -355,6 +355,8 @@ http://wearenext.co.za/people/ → http://www.wearenext.co.za/people
 
 ## Remote Working
 
+### Work Wherever Work gets Done
+
 We want you to be able to work wherever you’re going to get work done. Next has
 had a remote working policy since day one. Which you can read about in depth here.
 But with much freedom comes *some* responsibility.
