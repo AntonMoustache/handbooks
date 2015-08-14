@@ -193,7 +193,7 @@ Weeklies are one of the very few meetings we have where we review work done / no
 
 ## Done
 
-> Track time without timesheets
+> Track time without timesheets.
 
 We’re very fortunate to be able to work on retainers with our clients. And while we never get audited, we insist on keeping as accurate as possible account of our time spent on projects. We also hate admin. So we’ve made is super simple with a tool we built called Done.
 
