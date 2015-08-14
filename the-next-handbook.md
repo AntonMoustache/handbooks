@@ -142,7 +142,7 @@ We use google for all of our docs, spreadsheets, presentations and asset storage
 
 #### GitHub
 
-If you’re not writing code, you’ll experience [GitHub][4] as a project management tool. You’ll get issues assigned to you, which you close when completed. We’ll cover this more in Sprints.
+If you’re not writing code, you’ll experience [GitHub][1] as a project management tool. You’ll get issues assigned to you, which you close when completed. We’ll cover this more in Sprints.
 
 #### Wunderlist
 
@@ -150,11 +150,11 @@ For anything that _doesn’t_ have a repository in GitHub, we have a Next Wunder
 
 #### Design Tools
 
-We have a more exhaustive list of design tools we use and recommend in our [designer’s handbook][5].
+We have a more exhaustive list of design tools we use and recommend in our [designer’s handbook][2].
 
 #### Developer Tools
 
-Developer specific tooling is covered in detail in the [developer’s handbook][6].
+Developer specific tooling is covered in detail in the [developer’s handbook][3].
 
 ##  Sprints
 
@@ -164,7 +164,7 @@ The Next studio runs on a 5 day sprint system which starts on a Monday. This mak
 
 * Your workload should be clear at the start of the sprint
 * You should not get any new work allocated once the sprint has started.
-* Any work labeled as [high priority][7] should be done first, [low priority][8] last
+* Any work labeled as [high priority][4] should be done first, [low priority][5] last
 * If you’re assigned too much / too little work, speak up – preferably sooner than later
 
 ### Weeklies
@@ -201,7 +201,7 @@ Done is really simple, so use it all the time. When you finish something, when y
 
 At the end of the day, what really matters is what gets made, not where it gets made. Because we want you to make awesome stuff, and lots of it, we’re structured for both office-based and remote working. Work from the sanctity of your home where pants are optional. Or, work from Next HQ where we have a stocked fridge, good coffee, nice people and decent enough beer. Whether it’s our place, your place or any place – we’ll let you work wherever you get work done.
 
-Remote working is kind of a new thing for many people who join us, so we wrote a separate [handbook][9] for that.
+Remote working is kind of a new thing for many people who join us, so we wrote a separate [handbook][6] for that.
 
 ##  Your Growth
 
@@ -214,16 +214,13 @@ We want everyone who works with us to be wealthy, contented and growing in every
 
 ##  This is Your Company. This is Your Book.
 
-If you’ve found this book helpful, awesome. If you think there are some additional things we should add to it, even better. We want joining next to be as seamless an experience as possible. To make a suggestion add an [issue][10], or submit a pull request on GitHub. If that’s confusing, send a mail to [readme@wearenext.co.za][11]
+If you’ve found this book helpful, awesome. If you think there are some additional things we should add to it, even better. We want joining next to be as seamless an experience as possible. To make a suggestion add an [issue][7], or submit a pull request on GitHub. If that’s confusing, send a mail to [readme@wearenext.co.za][8]
 
-[1]: http://www.wearenext.co.za/assets/images/logos/logo-next-light-57x22.png
-[2]: /readme/
-[3]: /readme/#handbooks
-[4]: https://github.com/we-are-next/
-[5]: /readme/designers-handbook/
-[6]: /readme/developers-handbook/
-[7]: https://github.com/issues?q=label%3A%22high+priority%22+user%3Awe-are-next+is%3Aopen
-[8]: https://github.com/issues?q=label%3A%22low+priority%22+user%3Awe-are-next+is%3Aopen
-[9]: /readme/remote-handbook/
-[10]: https://github.com/we-are-next/wearenext.co.za/issues/new
-[11]: mailto:readme@wearenext.co.za
+[1]: https://github.com/we-are-next/
+[2]: /readme/designers-handbook/
+[3]: /readme/developers-handbook/
+[4]: https://github.com/issues?q=label%3A%22high+priority%22+user%3Awe-are-next+is%3Aopen
+[5]: https://github.com/issues?q=label%3A%22low+priority%22+user%3Awe-are-next+is%3Aopen
+[6]: /readme/remote-handbook/
+[7]: https://github.com/we-are-next/wearenext.co.za/issues/new
+[8]: mailto:readme@wearenext.co.za
