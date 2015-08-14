@@ -1,10 +1,25 @@
-##  Welcome
+# [The Next Handbook](http://www.wearenext.co.za/readme/the-next-handbook/)
+
+## Table of Contents
+
+* [Welcome](#welcome)
+* [Your First Day](#your-first-day)
+* [What We Do](#what-we-do)
+* [How We Think](#how-we-think)
+* [How We Work](#how-we-work)
+* [Sprints](#sprints)
+* [Done](#done)
+* [Remote Working and Flexi Time](#remote-working-and-flexi-time)
+* [Your Growth](#your-growth)
+* [Contributing](#contributing)
+
+## Welcome
 
 This is a company handbook to help you understand more about us, how we work and think. It can be daunting changing jobs, working with new partner companies or starting a career, so we think this will help you settle in quicker and answer quite a few questions that we may assume you already know.
 
 Just like everything we create, this is a collaborative living doc that will keep growing. So feel free to add questions and suggestions.
 
-##  Your First Day
+## Your First Day
 
 ### Your Machine
 
@@ -22,7 +37,7 @@ The fridge is stocked with convenience meals, healthy food, unhealthy food. Ther
 
 You should have invitations to all our cloud based software waiting for you in your inbox.
 
-##  What We Do
+## What We Do
 
 > We build online products that people love to use.
 
@@ -34,7 +49,7 @@ Happier, more productive happy staff or customers means more money for our clien
 
 The bottom line is that at Next we want to solve problems through digital products, so that means we are Marketers, Designers and Software Engineers.
 
-##  How We Think
+## How We Think
 
 ### No Titles
 
@@ -126,7 +141,7 @@ If you don’t love what you’re working on – tell us – this doesn’t mean
 
 If you’re not having fun and you have some suggestions how we can fix that then speak us – share it with team. Instead of complaining – help fix it.
 
-##  How We Work
+## How We Work
 
 ### Tools
 
@@ -156,7 +171,7 @@ We have a more exhaustive list of design tools we use and recommend in our [desi
 
 Developer specific tooling is covered in detail in the [developer’s handbook][3].
 
-##  Sprints
+## Sprints
 
 The Next studio runs on a 5 day sprint system which starts on a Monday. This makes it easy to manage workflows and to plan who is working on what and when. We plan our workflows a week at a time.
 
@@ -176,7 +191,7 @@ Weeklies are one of the very few meetings we have where we review work done / no
 * You’re only required in a weekly, if you’re working on that client/project in the sprint
 * As soon as you’re no longer required in the Weekly, you can go
 
-##  Done
+## Done
 
 > Track time without timesheets
 
@@ -197,13 +212,13 @@ Done is really simple, so use it all the time. When you finish something, when y
 * If you forget to log something, you can log it the next day by prepending [`yesterday]` to your message
 * You can undo your last entry by typing `/done undo`
 
-##  Remote Working and Flexi Time
+## Remote Working and Flexi Time
 
 At the end of the day, what really matters is what gets made, not where it gets made. Because we want you to make awesome stuff, and lots of it, we’re structured for both office-based and remote working. Work from the sanctity of your home where pants are optional. Or, work from Next HQ where we have a stocked fridge, good coffee, nice people and decent enough beer. Whether it’s our place, your place or any place – we’ll let you work wherever you get work done.
 
 Remote working is kind of a new thing for many people who join us, so we wrote a separate [handbook][6] for that.
 
-##  Your Growth
+## Your Growth
 
 We want everyone who works with us to be wealthy, contented and growing in every sense of the word. We’re invested in our staff’s growth as people, employees and professionals. We do regular catch-ups and reviews bi-annually – we will do whatever we can to help you be the best professional you can be. That looks different for everyone, but here’s some of the ways we look after our people:
 
@@ -212,7 +227,9 @@ We want everyone who works with us to be wealthy, contented and growing in every
 * Investment in staff passion projects
 * Medical Aid and Retirement Annuity contributions
 
-##  This is Your Company. This is Your Book.
+## Contributing
+
+### This is Your Company. This is Your Book.
 
 If you’ve found this book helpful, awesome. If you think there are some additional things we should add to it, even better. We want joining next to be as seamless an experience as possible. To make a suggestion add an [issue][7], or submit a pull request on GitHub. If that’s confusing, send a mail to [readme@wearenext.co.za][8]
 
