@@ -18,6 +18,8 @@ Unit 1, Kings Cross Corner 9 Queens Park Avenue Salt River, 7925 South Africa
 
 ## Handbooks
 
+- [The Next Handbook](the-next-handbook.md)
+- [Designer's Handbook](designers-handbook.md)
 - [Developer's Handbook](developers-handbook.md)
 - [Remote Handbook](remote-handbook.md)
 
