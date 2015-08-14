@@ -24,7 +24,7 @@
 
 This document, like this company, is a work in progress. We welcome changes, suggestions and improvements. Consider these guidelines the baseline for new products and services that we build together.
 
-> If you’re not solving a problem, you’re not designing.
+> “If you’re not solving a problem, you’re not designing.”
 >
 > – Kyle Steed
 
@@ -32,7 +32,7 @@ This document, like this company, is a work in progress. We welcome changes, sug
 
 At Next, everyone involved in the creation process, designs. Whether you do that with code, words, sketches or software is irrelevant. If you’re making or shaping the way a product works, you’re designing.
 
-> Design is a set of decisions about a product. It’s not an interface or an aesthetic, it’s not a brand or a color. Design is the actual decisions.
+> “Design is a set of decisions about a product. It’s not an interface or an aesthetic, it’s not a brand or a color. Design is the actual decisions.”
 >
 > – [Rebekah Cox][1]
 
@@ -52,7 +52,7 @@ Embrace the fact that 90% of your work will lie on the workshop floor. But it wi
 
 ## Process
 
-> Inspiration exists, but it has to find you working.
+> “Inspiration exists, but it has to find you working.”
 >
 > – Pablo Picasso
 
@@ -191,7 +191,7 @@ We’re not big on enforcing a rigid process on any and all problems, but if we 
 
 ### Content
 
-> Content precedes design. Design in the absence of content is not design, it’s decoration.
+> “Content precedes design. Design in the absence of content is not design, it’s decoration.”
 >
 > – [Jeffrey Zeldman][7]
 
@@ -226,7 +226,7 @@ We don’t often design in the browser, but we always [decide in the browser][11
 
 ### Integration
 
-> An interface is a place where two things meet: the human and the computer. The computer has functions it can perform. The human needs inputs and outputs to take advantage of those functions.
+> “An interface is a place where two things meet: the human and the computer. The computer has functions it can perform. The human needs inputs and outputs to take advantage of those functions.”
 >
 > – [Ryan Singer][12]
 
@@ -301,7 +301,7 @@ Basic rule of thumb here: this is Africa – reduce your file sizes. Uncompresse
 
 ### Animation
 
-> Animation can help to provide context. It helps brains understand how the information flows.
+> “Animation can help to provide context. It helps brains understand how the information flows.”
 >
 > – [Pasquale D’Silva][18]
 
