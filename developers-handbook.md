@@ -96,7 +96,7 @@ If it’s not on [Slack](https://wearenext.slack.com/) or
 > for some serious integration headaches down the line.” – [Jeff Atwood](http://blog.codinghorror.com/about-me/)
 
 **[Check In Early, Check In
-Often](http://blog.codinghorror.com/check-in-early-check-in-often/)**
+Often](http://blog.codinghorror.com/check-in-early-check-in-often/)**.
 
 The GitHub News Feed is in some ways the news feed of our company. Don’t work
 in a vacuum, **if the code isn’t checked into source control, it doesn’t
