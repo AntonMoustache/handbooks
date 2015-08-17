@@ -139,7 +139,7 @@ As Aaron Marshall puts it – Go Big _and_ Go Home.
 
 If you don’t love what you’re working on – tell us – this doesn’t mean that there are small things we all dread doing, but the overall work must be something you take pride in, something that is growing and showcasing your craft.
 
-If you’re not having fun and you have some suggestions how we can fix that then to speak us – share it with team. Instead of complaining – help fix it.
+If you’re not having fun and you have some suggestions how we can fix that then speak to us – share it with team. Instead of complaining – help fix it.
 
 ## How We Work
 
