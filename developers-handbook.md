@@ -9,14 +9,8 @@
   * [GitHub](#github)
   * [Workflow](#workflow)
 * [Documentation](#documentation)
-* [Stack](#stack)
-  * [Server](#server)
-  * [Client](#client)
-  * [Frameworks](#frameworks)
-* [Standards](#standards)
-  * [PHP](#php)
-  * [JavaScript](#javascript)
-  * [Versioning](#versioning)
+* [Platforms, Languages & Frameworks](#technology)
+* [Semantic Versioning](#standards)
 * [Tooling](#tooling)
   * [Build Tools](#build-tools)
   * [Text Editor](#text-editor)
@@ -147,43 +141,13 @@ If you’re writing code that other people depend on, for example a library or
 package, then [keeping a changelog](http://keepachangelog.com/) is a very good
 idea.
 
-## Stack
+## Platforms, Languages & Frameworks
 
-### Server
+We build on open source platforms, languages and frameworks. Examples of these
+would be [Laravel](http://laravel.com/), [Node](https://nodejs.org/),
+[Go](https://golang.org/) and [Rails](http://rubyonrails.org/).
 
-- Ubuntu
-- Nginx
-- PHP 5.6+
-- MySQL
-- Memcache
-
-### Client
-
-- HTML
-- Less/Sass
-- JavaScript
-
-### Frameworks
-
-- [Laravel](http://laravel.com/)
-- [Node](https://nodejs.org/)
-
-## Standards
-
-### PHP
-
-All PHP code must conform to [PSR-1](http://www.php-fig.org/psr/psr-1/),
-[PSR-2](http://www.php-fig.org/psr/psr-2/) and
-[PSR-4](http://www.php-fig.org/psr/psr-4/).
-
-All PHP must be run through a linter, such as [phplint](https://www.npmjs.com/package/phplint).
-
-### JavaScript
-
-All JavaScript code, must conform to our [ESLint](https://github.com/we-are-next/javascript)
-ruleset.
-
-### Versioning
+## Semantic Versioning
 
 When writing packages or modules, they must be versioned using [Semantic
 Versioning](http://semver.org/). We do this to communicate changes to people
