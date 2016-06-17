@@ -10,7 +10,7 @@
   * [Workflow](#workflow)
 * [Documentation](#documentation)
 * [Platforms, Languages & Frameworks](#technology)
-* [Semantic Versioning](#standards)
+* [Semantic Versioning](#platforms-languages--frameworks)
 * [Tooling](#tooling)
   * [Build Tools](#build-tools)
   * [Text Editor](#text-editor)
