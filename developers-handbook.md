@@ -24,7 +24,7 @@
 * [Launch Policy](#launch-policy)
 * [Performance](#performance)
 * [Finer Details](#finer-details)
-  * [SSL + TLS](#ssl-tls)
+  * [HTTPS + TLS](#https--tls)
   * [Canonical URLs](#canonical-urls)
 * [Remote Working](#remote-working)
 * [Must Watch](#must-watch)
