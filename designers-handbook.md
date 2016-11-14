@@ -24,19 +24,21 @@
 
 This document, like this company, is a work in progress. We welcome changes, suggestions and improvements. Consider these guidelines the baseline for new products and services that we build together.
 
-> “If you’re not solving a problem, you’re not designing.”
->
-> – Kyle Steed
+<blockquote>
+    <p>“If you’re not solving a problem, you’re not designing.”</p>
+    <cite>– Kyle Steed</cite>
+</blockquote>
 
 ## What Design is. What it’s not.
 
 At Next, everyone involved in the creation process, designs. Whether you do that with code, words, sketches or software is irrelevant. If you’re making or shaping the way a product works, you’re designing.
 
-> “Design is a set of decisions about a product. It’s not an interface or an aesthetic, it’s not a brand or a color. Design is the actual decisions.”
->
-> – [Rebekah Cox][1]
+<blockquote>
+    <p>“Design is a set of decisions about a product. It’s not an interface or an aesthetic, it’s not a brand or a color. Design is the actual decisions.”</p>
+    <cite>– <a href="http://rebekah.quora.com/Design-Quora-Web2-0-Expo-Presentation">Rebekah Cox</a></cite>
+</blockquote>
 
-Aesthetics are important, but they are not design. Design is solving a problem. And we solve problems with decisions about how software, processes and services can and should work. We do that in fluid and dynamic teams. We do it with respect and mutual deference. We do it inclusively. We do it pragmatically and professionally.
+Aesthetics are important, but they are not design. Design is solving a problem. And we solve problems with decisions about how software, processes and services can and should work. We do that in fluid and dynamic teams. We do it with respect and mutual deference. We do it inclusively. [We do it pragmatically and professionally][25].
 
 ## Design is wasteful. Embrace it.
 
@@ -52,9 +54,10 @@ Embrace the fact that 90% of your work will lie on the workshop floor. But it wi
 
 ## Process
 
-> “Inspiration exists, but it has to find you working.”
->
-> – Pablo Picasso
+<blockquote>
+    <p>“Inspiration exists, but it has to find you working.”</p>
+    <cite>– Pablo Picasso</cite>
+</blockquote>
 
 Our design process adapts to the unique requirements, deliverables technologies and contexts of the problem we are trying to solve.
 
@@ -148,9 +151,6 @@ Slack is the artery of our workflow. Our offices are generally quiet. Slack is n
 
 If you’re not writing code, you’ll experience GitHub as a project management tool. You’ll get issues assigned to you, which you close when completed. This is covered more in Sprints.
 
-### Wunderlist
-
-For anything that doesn’t have a repository in GitHub, we have a Next Wunderlist account. It’s a simple to do list app. You can use it however you want to.
 
 ## Discovery
 
@@ -191,9 +191,10 @@ We’re not big on enforcing a rigid process on any and all problems, but if we 
 
 ### Content
 
-> “Content precedes design. Design in the absence of content is not design, it’s decoration.”
->
-> – [Jeffrey Zeldman][7]
+<blockquote>
+    <p>“Content precedes design. Design in the absence of content is not design, it’s decoration.”</p>
+    <cite>– <a href="https://twitter.com/zeldman/status/804159148">Jeffrey Zeldman</a></cite>
+</blockquote>
 
 Design is giving shape and form to content. For that statement to be true, you need to consider content as being more than words and media. It’s the substance of the design.
 
@@ -226,9 +227,10 @@ We don’t often design in the browser, but we always [decide in the browser][11
 
 ### Integration
 
-> “An interface is a place where two things meet: the human and the computer. The computer has functions it can perform. The human needs inputs and outputs to take advantage of those functions.”
->
-> – [Ryan Singer][12]
+<blockquote>
+    <p>“An interface is a place where two things meet: the human and the computer. The computer has functions it can perform. The human needs inputs and outputs to take advantage of those functions.”</p>
+    <cite>– <a href="http://www.ncsu.edu/ncsu/design/cud/pubs_p/docs/poster.pdf">Ryan Singer</a></cite>
+</blockquote>
 
 Integration is the last frontier of the design process. Integration can and will influence our designs. So we embrace it and use this time to make our design better.
 
@@ -289,7 +291,7 @@ Appropriate size and space is provided for approach, reach, manipulation, and us
 
 ### Layout
 
-Designing for a multi device world means catering for screens of all sizes and kinds that are used in a number of contexts. It is more helpful to think of design in terms of screen sizes – and less helpful to think of design in terms of device type. For this reason we almost always design interfaces using a relative or a [fluid grid system][13]. Very few static design tools allow users to work this way, which is why we always decide in the browser. Even so, it is possible to accommodate this by designing using percentages of viewport width.
+Designing for a multi device world means catering for screens of all sizes and kinds that are used in a number of contexts. It is more helpful to think of design in terms of screen sizes – and less helpful to think of design in terms of device type. For this reason we almost always design interfaces using a relative or a [fluid grid system][13]. Very few static design tools allow users to work this way, which is why we always decide in the browser. Even so, it is possible to accommodate this by designing using percentages of viewport width. 
 
 ### Typography
 
@@ -301,11 +303,28 @@ Basic rule of thumb here: this is Africa – reduce your file sizes. Uncompresse
 
 ### Animation
 
-> “Animation can help to provide context. It helps brains understand how the information flows.”
->
-> – [Pasquale D’Silva][18]
+<blockquote>
+    <p>“Animation can help to provide context. It helps brains understand how the information flows.”</p>
+    <cite>– <a href="https://medium.com/@pasql/transitional-interfaces-926eb80d64e3">Pasquale D’Silva</a></cite>
+</blockquote>
 
 We believe that the role of animation in interaction design is primarily one of visual communication, that is using movement and changing states of objects to convey a message to a user. Animation for animation’s sake can become confusing and interfere with performance across browsers and devices.
+
+### Consistency & Patterns Usage
+
+At Next we’re able to be flexible and adaptable because we work with design patterns. Patterns require restraint on the part of the designer. The closer we get towards production, the more important it becomes to audit your designs and normalise them – that means reducing the number of variants of a pattern. Use common values, common patterns – reuse design patterns as much as possible.
+
+### Designing for Performance
+
+Performance is as [critical to design][21] as the pixels we push around onn our screens, perhaps even more. Don’t design your way into an 20 second page load; share your designs early and often with a broader team. 
+
+#### Making Design Perform Better  
+
+- [Setting A Performance Budget][26]
+- [Collection of Designing For Performance Resources][22] 
+- [Responsive Images][23]
+- [Use SVG for icons, not images][24]
+- [Kraken your images][14]
 
 ## Style Guides
 
@@ -337,13 +356,11 @@ Templates are built from elements and patterns which have been combined together
 
 If you’ve found this book helpful, awesome. If you think there are some additional things we should add to it, even better. We want joining next to be as seamless an experience as possible. To make a suggestion add an [issue][19], or submit a pull request on GitHub. If that’s confusing, send a mail to [readme@wearenext.co.za][20]
 
-[1]: http://rebekah.quora.com/Design-Quora-Web2-0-Expo-Presentation
 [2]: https://github.com/issues?q=label%3A%22high+priority%22+user%3Awe-are-next+is%3Aopen
 [3]: https://github.com/issues?q=label%3A%22low+priority%22+user%3Awe-are-next+is%3Aopen
 [4]: /readme/remote-handbook/
 [5]: http://blog.codinghorror.com/dont-go-dark/
-[6]: http://s3.amazonaws.com/wearenext/static/styleguide/styleguide/index.html
-[7]: https://twitter.com/zeldman/status/804159148
+[6]: http://s.wearenext.co.za/boilerplate/styleguide/
 [8]: https://the-pastry-box-project.net/dan-mall/2012-september-12
 [9]: http://feltpresence.com/articles/19-what-ui-really-is-and-how-ux-%20confuses-matters
 [10]: http://leaverou.github.io/contrast-ratio/
@@ -354,6 +371,11 @@ If you’ve found this book helpful, awesome. If you think there are some additi
 [15]: http://www.smashingmagazine.com/2014/05/responsive-images-done-right-guide-picture-srcset/
 [16]: https://www.youtube.com/
 [17]: http://wistia.com/
-[18]: https://medium.com/@pasql/transitional-interfaces-926eb80d64e3
 [19]: https://github.com/we-are-next/wearenext.co.za/issues/new
 [20]: mailto:readme@wearenext.co.za
+[21]: http://bradfrost.com/blog/post/performance-as-design/
+[22]: http://larahogan.me/design/
+[23]: https://responsiveimages.org
+[24]: https://icomoon.io
+[25]: http://jonyablonski.com/2015/front-end-principles-for-designers
+[26]: http://timkadlec.com/2013/01/setting-a-performance-budget/
